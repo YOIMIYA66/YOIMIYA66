@@ -1,76 +1,111 @@
 <div align="center">
-  <img src="assets/header_.png" alt="Profile Header" width="100%" />
 
-  # 🌟 Hello there, I'm Lyu Bingrong! 🌟
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=console.log(%22Hello%2C%20World%22);Lyu%20Bingrong%20wishes%20you%20a%20great%20day!&center=true&size=27)](https://git.io/typing-svg)
+
+<picture>
+  <img src="./assets/header_.png" alt="Header Image" width="100%" />
+</picture>
+
+<div>&nbsp;</div>
+
+</div>
+
+<!--   my-header-img -->
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+👋 Hi there! I'm **Lyu Bingrong (吕炳荣)**, a Software Engineering Undergraduate 👨‍💻 who loves cutting-edge Artificial Intelligence & Machine Learning. 
+
+🚀 Software Engineering | Large Language Model (LLM) Enthusiast | AI Application Developer
+
+🌟 Dedicated to LLM exploration, intelligent applications, and model evaluation. My recent explorations cover state-of-the-art models including **ChatGPT**, **Gemini**, and **Claude**.
+
+💼 **Past Experience**: Participated in Large Language Model (LLM) evaluation-related work at the **Beijing Academy of Artificial Intelligence (BAAI / 北京智源人工智能研究院)**.
+
+<!--   my-skils -->
+
+| Property                                        | Technologies & Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Language / IDE**                              | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-66CC66?style=flat-square&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat-square&logo=GnuBash)&nbsp;                                                                                                                                                                                                                                                                |
+| **Domain Knowledge**                            | [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat-square&logoColor=white)](https://github.com/YOIMIYA66) [![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FAB040?style=flat-square&logoColor=white)](https://github.com/YOIMIYA66) [![Software Engineering](https://img.shields.io/badge/-Software%20Engineering-FF6600?style=flat-square&logoColor=white)](https://github.com/YOIMIYA66) [![LLM Evaluation](https://img.shields.io/badge/-LLM%20Evaluation-9C27B0?style=flat-square&logoColor=white)](https://github.com/YOIMIYA66)                                                                                                                                                                                          |
+| **CI / CD / Tools**                             | [![Markdown](https://img.shields.io/badge/-Markdown-2088FF?style=flat-square&logo=Markdown&logoColor=white)](https://github.com/YOIMIYA66) ![Git](https://img.shields.io/badge/-Git-004400?style=flat-square&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat-square&logo=github)&nbsp; [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)                                                                                                                                                                                                                                                                                          |
+| **LLMs & AI Services**                          | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Kimi / DeepSeek](https://img.shields.io/badge/Domestic_LLMs-444444?style=flat-square&logoColor=white)   |
+| **Machine Learning / Deep Learning frameworks** | ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-F9AB00?style=flat-square&logo=huggingface&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat-square&logo=OpenCV)&nbsp; |
+
+<br>
+
+<div align="center">
+
+## 📜 Philosophy / 个人准则
+
+> **"知行合一"**
+> 
+> *Knowledge and Action are One.*
+> <br>— Wang Yangming (王阳明)
+
+<br>
+
+## 🏆 Honors & Achievements / 荣誉与奖项
+
+🥇 **National First Prize (国家级一等奖)**<br>
+`[2025]` 19th "Challenge Cup" National College Student Extracurricular Academic Science and Technology Work Competition - "AI" Special Track <br>
+`[2025]` 第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能”专项赛
+
+<br>
+
+🥉 **National Bronze Award / Third Prize (国家级铜奖 / 三等奖)**<br>
+`[2024]` China International College Students' Innovation Competition<br>
+`[2024]` 中国国际大学生创新大赛（2024）
+
+<br>
+
+🥉 **National Third Prize (国家级三等奖)**<br>
+`[2025]` 16th Chinese College Students Service Outsourcing Innovation and Entrepreneurship Competition<br>
+`[2025]` 第十六届中国大学生服务外包创新创业大赛
+
+<br>
+
+🥉 **Global Final 2nd Runner-up (全球总决赛季军)**<br>
+`[2024]` 6th Zhongguancun Talent Maker Competition<br>
+`[2024]` 第六届中关村人才创客大赛
+
+<br>
+
+🥉 **Kaggle Bronze Medal (Kaggle 铜牌)**<br>
+`[2026.03]` Kaggle - Deep Past Challenge - Translate Akkadian to English<br>
+`[2026.03]` Kaggle - 深度古代挑战赛（阿卡德语翻译至英语）
+
+<br>
+
+### 🐍 GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOIMIYA66/YOIMIYA66/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOIMIYA66/YOIMIYA66/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOIMIYA66/YOIMIYA66/output/github-contribution-grid-snake.svg">
+</picture> 
+
+<br>
+<br>
+
+### 📫 How to reach me
+
+<p align="center">
+  <a href="mailto:lyubingrong@foxmail.com">
+    <img src="https://img.shields.io/badge/Email-lyubingrong@foxmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+AI+Enthusiast;NLP+Researcher+%40+BAAI;Python%2C+C%2B%2B+%26+Deep+Learning;Building+Intelligent+Systems" alt="Typing SVG" /></a>
+  <a href="https://www.linkedin.com/in/%E7%82%B3%E8%8D%A3-%E5%90%95-3a13ab3a2/?skipRedirect=true">
+    <img src="https://img.shields.io/badge/LinkedIn-Lyu_Bingrong-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <br>
   
-  <p align="center">
-    <b>NLP Researcher | Intern @ Beijing Academy of Artificial Intelligence (BAAI)</b><br>
-    <i>Passionate about Large Language Models, Deep Learning, and building scalable software.</i>
-  </p>
+  <a href="https://www.kaggle.com/lvbingrong">
+    <img src="https://img.shields.io/badge/Kaggle-lvbingrong-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
   
-  ---
+  <a href="https://aistudio.baidu.com/personalcenter/thirdview/4207625">
+    <img src="https://img.shields.io/badge/PaddlePaddle-AI_Studio-2932E1?style=for-the-badge&logo=baidu&logoColor=white" alt="Baidu AI Studio" />
+  </a>
+</p>
 
-  ### 🛠️ Tech Stack & Skills
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,go" alt="Languages" /><br><br>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,git,linux,mysql,nginx" alt="Tools & Frameworks" />
-    </a>
-  </p>
-
-  ---
-  
-  ### 🏆 Honors & Achievements
-
-  <div align="left">
-    🥇 **National First Prize (国家级一等奖)**
-      - `[2024]` 2024 China College Students' Computer Design Contest
-      - `[2024]` 2024年（第17届）中国大学生计算机设计大赛
-      
-    <br>
-    
-    🥉 **National Bronze Award / Third Prize (国家级铜奖 / 三等奖)**
-      - `[2024]` The 10th China International College Students' "Internet+" Innovation and Entrepreneurship Competition
-      - `[2024]` 第十届中国国际大学生创新大赛（原“互联网+”）
-      
-    <br>
-    
-    🥉 **National Third Prize (国家级三等奖)**
-      - `[2024]` The 15th Lanqiao Cup National Software and Information Technology Professionals Competition
-      - `[2024]` 第十五届蓝桥杯全国软件和信息技术专业人才大赛
-      
-    <br>
-    
-    🥉 **Global Final 2nd Runner-up (全球总决赛季军)**
-      - `[2024]` 6th Zhongguancun Talent Maker Competition
-      - `[2024]` 第六届中关村人才创客大赛
-
-    <br>
-
-    🥉 **Kaggle Bronze Medal (Kaggle 铜牌)**
-      - `[2026.03]` Kaggle - Deep Past Challenge - Translate Akkadian to English
-      - `[2026.03]` Kaggle - 阿卡德语翻译至英语深度挑战赛 (铜牌)
-  </div>
-
-  ---
-
-  ### 📈 GitHub Stats
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOIMIYA66&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="YOIMIYA66's GitHub Stats" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOIMIYA66&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </p>
-
-  ### 🐍 Contribution Activity
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOIMIYA66/YOIMIYA66/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOIMIYA66/YOIMIYA66/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOIMIYA66/YOIMIYA66/output/github-contribution-grid-snake.svg">
-  </picture>
-
-  ---
-  <p align="center"><i>"Code changes the world, day by day."</i></p>
 </div>
