@@ -105,10 +105,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOIMIYA66&theme=tokyonight" width="95%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOIMIYA66&theme=tokyonight&hide_border=true" width="88%" />
-</p>
-
 <br>
 
 ### 🐍 GitHub Contributions
