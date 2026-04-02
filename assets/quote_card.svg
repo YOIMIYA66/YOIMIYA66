@@ -7,10 +7,10 @@
       <stop offset="100%" stop-color="#2c5364" />
     </linearGradient>
 
-    <!-- Warm accent gradient for the quote line -->
+    <!-- Cool blue accent gradient for the quote line -->
     <linearGradient id="lineGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#ff7eb3" />
-      <stop offset="100%" stop-color="#ff758c" />
+      <stop offset="0%" stop-color="#00c6ff" />
+      <stop offset="100%" stop-color="#0072ff" />
     </linearGradient>
 
     <!-- Soft glow filter -->
