@@ -37,19 +37,11 @@
 
 ## 📜 Philosophy / 个人准则
 
-<div align="center">
-  <table width="600" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <img src="https://img.shields.io/badge/Philosophy-个人准则-58A6FF?style=for-the-badge&logoColor=white" alt="Philosophy" />
-        <br><br>
-        <h2><kbd>&nbsp;知&nbsp;</kbd> <kbd>&nbsp;行&nbsp;</kbd> <kbd>&nbsp;合&nbsp;</kbd> <kbd>&nbsp;一&nbsp;</kbd></h2>
-        <h4><i>" Knowledge and Action are One. "</i></h4>
-        <p align="right">— <b>Wang Yangming</b> (王阳明) &emsp;</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/YOIMIYA66">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Knowledge%20and%20Action%20are%20One.%20(%E7%9F%A5%E8%A1%8C%E5%90%88%E4%B8%80)&author=Wang%20Yangming%20(%E7%8E%8B%E9%98%B3%E6%98%8E)" alt="Philosophy Quote" />
+  </a>
+</p>
 
 <br>
 
