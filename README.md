@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="https://github.com/YOIMIYA66">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Knowledge%20and%20Action%20are%20One.%20(%E7%9F%A5%E8%A1%8C%E5%90%88%E4%B8%80)&author=Wang%20Yangming%20(%E7%8E%8B%E9%98%B3%E6%98%8E)" alt="Philosophy Quote" />
+    <img src="./assets/quote_card.svg" alt="Philosophy Quote Custom" />
   </a>
 </p>
 
