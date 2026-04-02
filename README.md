@@ -37,10 +37,11 @@
 
 ## 📜 Philosophy / 个人准则
 
-> **"知行合一"**
-> 
-> *Knowledge and Action are One.*
-> <br>— Wang Yangming (王阳明)
+<div align="center">
+  <br>
+  <img src="https://open-source-box.vercel.app/api?title=Philosophy%20%2F%20%E4%B8%AA%E4%BA%BA%E5%87%86%E5%88%99&content=%E7%9F%A5%20%E8%A1%8C%20%E5%90%88%20%E4%B8%80%0AKnowledge%20and%20Action%20are%20One.%0A%0A%E2%80%94%20Wang%20Yangming%20%28%E7%8E%8B%E9%98%B3%E6%98%8E%29&theme=github-dark&animation=fadeIn" alt="Philosophy Quote Box" width="600" />
+  <br>
+</div>
 
 <br>
 
