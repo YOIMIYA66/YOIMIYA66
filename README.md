@@ -8,6 +8,8 @@
 
 <div>&nbsp;</div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOIMIYA66&color=58A6FF&style=flat-square&label=Profile%20Views)
+
 </div>
 
 <!--   my-header-img -->
@@ -20,6 +22,16 @@
 🌟 Dedicated to LLM exploration, intelligent applications, and model evaluation. My recent explorations cover state-of-the-art models including **ChatGPT**, **Gemini**, and **Claude**.
 
 💼 **Past Experience**: Participated in Large Language Model (LLM) evaluation-related work at the **Beijing Academy of Artificial Intelligence (BAAI / 北京智源人工智能研究院)**.
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="mailto:lyubingrong@foxmail.com"><img src="https://img.shields.io/badge/Email-lyubingrong@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/%E7%82%B3%E8%8D%A3-%E5%90%95-3a13ab3a2/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-Lyu_Bingrong-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/lvbingrong"><img src="https://img.shields.io/badge/Kaggle-lvbingrong-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://aistudio.baidu.com/personalcenter/thirdview/4207625"><img src="https://img.shields.io/badge/PaddlePaddle-AI_Studio-2932E1?style=flat-square&logo=baidu&logoColor=white" alt="Baidu AI Studio" /></a>
+</p>
+
 
 <!--   my-skils -->
 
@@ -77,6 +89,16 @@
 
 <br>
 
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOIMIYA66&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOIMIYA66&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<br>
+
 ### 🐍 GitHub Contributions
 
 <picture>
@@ -88,25 +110,5 @@
 <br>
 <br>
 
-### 📫 How to reach me
-
-<p align="center">
-  <a href="mailto:lyubingrong@foxmail.com">
-    <img src="https://img.shields.io/badge/Email-lyubingrong@foxmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/%E7%82%B3%E8%8D%A3-%E5%90%95-3a13ab3a2/?skipRedirect=true">
-    <img src="https://img.shields.io/badge/LinkedIn-Lyu_Bingrong-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <br>
-  
-  <a href="https://www.kaggle.com/lvbingrong">
-    <img src="https://img.shields.io/badge/Kaggle-lvbingrong-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  
-  <a href="https://aistudio.baidu.com/personalcenter/thirdview/4207625">
-    <img src="https://img.shields.io/badge/PaddlePaddle-AI_Studio-2932E1?style=for-the-badge&logo=baidu&logoColor=white" alt="Baidu AI Studio" />
-  </a>
-</p>
 
 </div>
