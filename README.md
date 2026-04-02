@@ -102,11 +102,7 @@
 </p>
 
 <p align="center">
-<<<<<<< HEAD
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOIMIYA66&theme=tokyonight&hide_border=true" width="88%" />
-=======
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOIMIYA66&theme=tokyonight&hide_border=true" width="80%" />
->>>>>>> b19ffc3 (style(readme): upgrade tech stack to dynamic borderless icons)
 </p>
 
 <br>
