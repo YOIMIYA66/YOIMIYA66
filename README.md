@@ -34,15 +34,37 @@
 
 
 <!--   my-skils -->
+<div align="center">
 
-| Property                                        | Technologies & Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language / IDE**                              | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-66CC66?style=flat-square&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat-square&logo=GnuBash)&nbsp;                                                                                                                                                                                                                                                                |
-| **Domain Knowledge**                            | [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat-square&logoColor=white)](https://github.com/YOIMIYA66) [![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FAB040?style=flat-square&logoColor=white)](https://github.com/YOIMIYA66) [![Software Engineering](https://img.shields.io/badge/-Software%20Engineering-FF6600?style=flat-square&logoColor=white)](https://github.com/YOIMIYA66) [![LLM Evaluation](https://img.shields.io/badge/-LLM%20Evaluation-9C27B0?style=flat-square&logoColor=white)](https://github.com/YOIMIYA66)                                                                                                                                                                                          |
-| **CI / CD / Tools**                             | [![Markdown](https://img.shields.io/badge/-Markdown-2088FF?style=flat-square&logo=Markdown&logoColor=white)](https://github.com/YOIMIYA66) ![Git](https://img.shields.io/badge/-Git-004400?style=flat-square&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat-square&logo=github)&nbsp; [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)                                                                                                                                                                                                                                                                                          |
-| **LLMs & AI Services**                          | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Kimi / DeepSeek](https://img.shields.io/badge/Domestic_LLMs-444444?style=flat-square&logoColor=white)   |
-| **Machine Learning / Deep Learning frameworks** | ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-F9AB00?style=flat-square&logo=huggingface&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat-square&logo=OpenCV)&nbsp; |
+### 👨‍💻 Languages & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,vscode,js,cpp,bash,git,github,docker,md&theme=dark" />
+  </a>
+</p>
 
+### 🧠 AI & Machine Learning
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
+  </a>
+</p>
+
+### 🤖 LLMs & Domain Expertise
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Machine_Learning-01D277?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Deep_Learning-FAB040?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Software_Engineering-FF6600?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LLM_Evaluation-9C27B0?style=for-the-badge&logoColor=white" />
+</p>
+
+</div>
 <br>
 
 <div align="center">
@@ -80,7 +102,11 @@
 </p>
 
 <p align="center">
+<<<<<<< HEAD
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOIMIYA66&theme=tokyonight&hide_border=true" width="88%" />
+=======
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOIMIYA66&theme=tokyonight&hide_border=true" width="80%" />
+>>>>>>> b19ffc3 (style(readme): upgrade tech stack to dynamic borderless icons)
 </p>
 
 <br>
