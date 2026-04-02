@@ -8,7 +8,7 @@
 
 <div>&nbsp;</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOIMIYA66&color=58A6FF&style=flat-square&label=Profile%20Views)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOIMIYA66.YOIMIYA66&left_color=444444&right_color=58A6FF&left_text=VISITORS)
 
 </div>
 
@@ -93,8 +93,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOIMIYA66&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOIMIYA66&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOIMIYA66&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOIMIYA66&theme=tokyonight" width="48%" />
 </p>
 
 <br>
