@@ -8,7 +8,12 @@
 
 <div>&nbsp;</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOIMIYA66&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/👋_Greetings!-Welcome_to_my_Git-0e75b6?style=for-the-badge" alt="Greeting" />&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=YOIMIYA66&label=VISITORS&color=0e75b6&style=for-the-badge" alt="Profile Views" />&nbsp;
+  <img src="https://img.shields.io/badge/📍_Location-Beijing,_China-0e75b6?style=for-the-badge" alt="Location" />&nbsp;
+  <img src="https://img.shields.io/badge/💻_Status-Active_Coding_...-0e75b6?style=for-the-badge" alt="Active Status" />
+</p>
 
 </div>
 
