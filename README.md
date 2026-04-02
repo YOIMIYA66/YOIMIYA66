@@ -76,7 +76,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOIMIYA66&theme=tokyonight" width="70%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOIMIYA66&theme=tokyonight" width="95%" />
 </p>
 
 <br>
