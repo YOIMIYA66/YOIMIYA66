@@ -13,7 +13,7 @@
 <!--   my-header-img -->
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
-👋 Hi there! I'm YOIMIYA66, a student developer 🧙‍♂️ who loves Artificial Intelligence & Machine Learning 
+👋 Hi there! I'm YOIMIYA66, a student developer 🧙‍♂�?who loves Artificial Intelligence & Machine Learning 
 
 🚀 AI Developer | Medical LLM Enthusiast | Open Source Contributor
 
@@ -44,9 +44,9 @@
 
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOIMIYA66/YOIMIYA66/output/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOIMIYA66/YOIMIYA66/output/dist/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOIMIYA66/YOIMIYA66/output/dist/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOIMIYA66/YOIMIYA66/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOIMIYA66/YOIMIYA66/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOIMIYA66/YOIMIYA66/output/github-contribution-grid-snake.svg">
 </picture> 
 
 <br>
