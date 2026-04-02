@@ -54,7 +54,7 @@
 
 🥉 **National Bronze Award / Third Prize (国家级铜奖 / 三等奖)**<br>
 `[2024]` China International College Students' Innovation Competition<br>
-`[2024]` 中国国际大学生创新大赛（2024）
+`[2024]` 中国国际大学生创新大赛
 
 <br>
 
