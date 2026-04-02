@@ -1,5 +1,5 @@
 <!--   my-header-img -->
-<!-- 如果你有头图，可以放在仓库里并取消替换这行： ![](./src/header_.png) -->
+(./src/header_.png)
 
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
