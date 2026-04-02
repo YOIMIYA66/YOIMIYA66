@@ -95,7 +95,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOIMIYA66&theme=tokyonight" width="70%" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOIMIYA66&theme=tokyonight" width="70%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOIMIYA66&theme=tokyonight" width="55%" />
 </p>
 
 <br>
