@@ -59,36 +59,19 @@
 
 ## 🏆 Honors & Achievements / 荣誉与奖项
 
-🥇 **National First Prize (国家级一等奖)**<br>
-`[2025]` 19th "Challenge Cup" National College Student Extracurricular Academic Science and Technology Work Competition - "AI" Special Track <br>
-`[2025]` 第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能”专项赛
+<div align="center">
+
+| 🏅 **Award Level** / 奖项级别 | 🎯 **Competition** / 竞赛成就 | 🗓️ **Date** |
+| :--- | :--- | :---: |
+| 🥇 **National 1st Prize** <br> <sub>国家级一等奖</sub> | **19th "Challenge Cup" National College Student Academic Science Competition - "AI" Special Track** <br> <sub>第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能”专项赛</sub> | <kbd>&nbsp;2025&nbsp;</kbd> |
+| 🥉 **National Bronze Award** <br> <sub>国家级铜奖 / 三等奖</sub> | **China International College Students' Innovation Competition** <br> <sub>中国国际大学生创新大赛</sub> | <kbd>&nbsp;2024&nbsp;</kbd> |
+| 🥉 **National 3rd Prize** <br> <sub>国家级三等奖</sub> | **16th Chinese College Students Service Outsourcing Innovation and Entrepreneurship Competition** <br> <sub>第十六届中国大学生服务外包创新创业大赛</sub> | <kbd>&nbsp;2025&nbsp;</kbd> |
+| 🥉 **Global Final 2nd Runner-up** <br> <sub>全球总决赛季军</sub> | **6th Zhongguancun Talent Maker Competition** <br> <sub>第六届中关村人才创客大赛</sub> | <kbd>&nbsp;2024&nbsp;</kbd> |
+| 🥉 **Kaggle Bronze Medal** <br> <sub>Kaggle 铜牌</sub> | **Kaggle - Deep Past Challenge - Translate Akkadian to English** <br> <sub>Kaggle 竞赛 - 深度古代挑战赛（阿卡德语翻译）</sub> | <kbd>2026.03</kbd> |
+
+</div>
 
 <br>
-
-🥉 **National Bronze Award / Third Prize (国家级铜奖 / 三等奖)**<br>
-`[2024]` China International College Students' Innovation Competition<br>
-`[2024]` 中国国际大学生创新大赛
-
-<br>
-
-🥉 **National Third Prize (国家级三等奖)**<br>
-`[2025]` 16th Chinese College Students Service Outsourcing Innovation and Entrepreneurship Competition<br>
-`[2025]` 第十六届中国大学生服务外包创新创业大赛
-
-<br>
-
-🥉 **Global Final 2nd Runner-up (全球总决赛季军)**<br>
-`[2024]` 6th Zhongguancun Talent Maker Competition<br>
-`[2024]` 第六届中关村人才创客大赛
-
-<br>
-
-🥉 **Kaggle Bronze Medal (Kaggle 铜牌)**<br>
-`[2026.03]` Kaggle - Deep Past Challenge - Translate Akkadian to English<br>
-`[2026.03]` Kaggle - 深度古代挑战赛（阿卡德语翻译至英语）
-
-<br>
-
 
 ## 📊 GitHub Analytics
 
