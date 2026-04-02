@@ -1,24 +1,24 @@
-﻿<h1 align="center">Hi there, I'm YOIMIYA66 </h1>
+<h1 align="center">Hi there, I'm YOIMIYA66 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7153D&center=true&vCenter=true&width=535&lines=+Full+Stack+Developer;+Always+Learning;+Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7153D&center=true&vCenter=true&width=535&lines=💻+Full+Stack+Developer;🌟+Always+Learning;🚀+Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <em>A passionate developer, constantly learning new technologies and building cool things.</em>
 </p>
 
-###  关于我 (About Me)
+### 👨‍💻 关于我 (About Me)
 
--  目前正在开发/研究: **我的下一个很酷的项目**
--  目前正在学习: **AI 与应用开发**
--  期待在 **有趣且实用的开源项目** 方面与他人合作
--  欢迎问我关于: **Web 开发、Python 以及任何技术话题**
--  趣味小知识: **代码写得好，全靠精神好 **
+- 🔭 目前正在开发/研究: **我的下一个很酷的项目**
+- 🌱 目前正在学习: **AI 与应用开发**
+- 👯 期待在 **有趣且实用的开源项目** 方面与他人合作
+- 💬 欢迎问我关于: **Web 开发、Python 以及任何技术话题**
+- ⚡ 趣味小知识: **代码写得好，全靠精神好 ☕**
 
 <br>
 
-###  技能栈 (Tech Stack)
+### 🛠️ 技能栈 (Tech Stack)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,7 +32,7 @@
 
 <br>
 
-###  GitHub 统计 (Stats)
+### 📊 GitHub 统计 (Stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOIMIYA66&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" alt="YOIMIYA66's GitHub stats" width="48%" />
@@ -41,11 +41,10 @@
 
 <br>
 
-###  每日提交贪吃蛇 (Contribution Snake)
+### 🏆 每日提交贪吃蛇 (Contribution Snake)
 <!-- 
   注意：生成贪吃蛇需要配置 GitHub Actions。 
-  如果你希望开启，请将上面仓库中的名字全部替换成你的实际 GitHub 用户名， 
-  并取消下面代码的注释。
+  如果你希望开启，请取消下面代码的注释。
 -->
 <!-- 
 <picture>
@@ -57,7 +56,7 @@
 
 <br>
 
-###  联系我 (Let's Connect)
+### 📫 联系我 (Let's Connect)
 
 <p align="center">
   <a href="mailto:your_email@example.com">
