@@ -8,12 +8,6 @@
 
 <div>&nbsp;</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOIMIYA66&label=VISITORS&color=0e75b6&style=for-the-badge" alt="Profile Views" />&nbsp;
-  <img src="https://img.shields.io/badge/📍_Location-Beijing,_China-0e75b6?style=for-the-badge" alt="Location" />&nbsp;
-  <img src="https://img.shields.io/badge/💻_Status-Active_Coding_...-0e75b6?style=for-the-badge" alt="Active Status" />
-</p>
-
 </div>
 
 <div align="center">
