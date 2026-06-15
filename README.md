@@ -6,13 +6,13 @@
   <img src="./assets/header_.png" alt="Header Image" width="100%" />
 </picture>
 
+<div>&nbsp;</div>
+
 </div>
 
 <div align="center">
 
-<p>
-  <strong>🚀 Open Source Focus / 重点开源项目</strong>
-</p>
+## 🚀 Open Source Focus / 重点开源项目
 
 <a href="https://github.com/rullerzhou-afk/clawd-on-desk">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=92&color=0:0D1117,45:123A6F,100:1F6FEB&section=header&text=Clawd%20on%20Desk&fontColor=FFFFFF&fontSize=34&fontAlignY=52&desc=Maintainer%20of%20a%20cross-platform%20AI%20coding%20agent%20desktop%20pet&descAlignY=78&descSize=13" alt="Clawd on Desk showcase banner" width="100%" />
