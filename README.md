@@ -35,40 +35,35 @@
 <br />
 <br />
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <h3>🦀 Clawd on Desk</h3>
-      <p>
-        A pixel desktop pet that watches <strong>Claude Code</strong>, <strong>Codex CLI</strong>, <strong>Copilot CLI</strong>, <strong>Gemini CLI</strong>, <strong>Cursor Agent</strong>, and other AI coding agents in real time.
-      </p>
-      <p>
-        <kbd>Maintainer</kbd>
-        <kbd>AI Coding Tools</kbd>
-        <kbd>Electron</kbd>
-        <kbd>Desktop App</kbd>
-        <kbd>Pixel Art</kbd>
-      </p>
-      <p>
-        <a href="https://github.com/rullerzhou-afk/clawd-on-desk/stargazers"><img src="https://img.shields.io/github/stars/rullerzhou-afk/clawd-on-desk?style=for-the-badge&logo=github&color=F7C948&label=Stars" alt="GitHub stars" /></a>
-        <a href="https://github.com/rullerzhou-afk/clawd-on-desk/network/members"><img src="https://img.shields.io/github/forks/rullerzhou-afk/clawd-on-desk?style=for-the-badge&logo=github&color=58A6FF&label=Forks" alt="GitHub forks" /></a>
-        <img src="https://img.shields.io/github/languages/top/rullerzhou-afk/clawd-on-desk?style=for-the-badge&color=7C3AED" alt="Top language" />
-      </p>
-      <p>
-        <strong>My role:</strong> helping maintain agent integrations, documentation clarity, issue triage, and release quality with the project team.
-      </p>
-    </td>
-    <td width="42%" align="center" valign="top">
-      <a href="https://github.com/rullerzhou-afk/clawd-on-desk">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rullerzhou-afk&repo=clawd-on-desk&theme=tokyonight&show_owner=true&border_color=1F6FEB&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F7C948" alt="Clawd on Desk repository card" />
-      </a>
-      <br /><br />
-      <a href="https://github.com/rullerzhou-afk/clawd-on-desk"><img src="https://img.shields.io/badge/View%20Project-rullerzhou--afk%2Fclawd--on--desk-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="View Clawd on Desk" /></a>
-    </td>
-  </tr>
-</table>
+### 🦀 Clawd on Desk · AI Coding Agent Desktop Pet
 
-<sub>Maintaining open-source AI tooling means balancing product experience, cross-platform reliability, integration details, and contributor-friendly documentation.</sub>
+<p>
+  A pixel desktop companion that watches <strong>Claude Code</strong>, <strong>Codex CLI</strong>, <strong>Copilot CLI</strong>, <strong>Gemini CLI</strong>, <strong>Cursor Agent</strong>, and other AI coding agents in real time.
+</p>
+
+<p>
+  <kbd>Maintainer</kbd>
+  <kbd>AI Coding Tools</kbd>
+  <kbd>Electron</kbd>
+  <kbd>Cross-platform Desktop</kbd>
+  <kbd>Pixel Art UX</kbd>
+</p>
+
+<p>
+  <a href="https://github.com/rullerzhou-afk/clawd-on-desk/stargazers"><img src="https://img.shields.io/github/stars/rullerzhou-afk/clawd-on-desk?style=flat-square&logo=github&color=F7C948&label=Stars" alt="GitHub stars" /></a>
+  <a href="https://github.com/rullerzhou-afk/clawd-on-desk/network/members"><img src="https://img.shields.io/github/forks/rullerzhou-afk/clawd-on-desk?style=flat-square&logo=github&color=58A6FF&label=Forks" alt="GitHub forks" /></a>
+  <img src="https://img.shields.io/badge/Stack-JavaScript%20%2B%20Electron-1F6FEB?style=flat-square&logo=electron&logoColor=white" alt="JavaScript and Electron" />
+  <img src="https://img.shields.io/badge/Role-Maintainer-7C3AED?style=flat-square&logo=githubsponsors&logoColor=white" alt="Maintainer role" />
+</p>
+
+<p>
+  <a href="https://github.com/rullerzhou-afk/clawd-on-desk"><img src="https://img.shields.io/badge/View%20Repository-rullerzhou--afk%2Fclawd--on--desk-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="View Clawd on Desk repository" /></a>
+  <a href="https://github.com/rullerzhou-afk/clawd-on-desk/releases"><img src="https://img.shields.io/badge/Download%20Releases-Clawd%20on%20Desk-111827?style=for-the-badge&logo=github&logoColor=white" alt="Download Clawd on Desk releases" /></a>
+</p>
+
+<blockquote>
+  <strong>Maintainer focus:</strong> agent integrations, documentation clarity, issue triage, release quality, and keeping the contributor experience smooth.
+</blockquote>
 
 </div>
 
