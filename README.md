@@ -22,14 +22,10 @@
   <img src="https://raw.githubusercontent.com/rullerzhou-afk/clawd-on-desk/main/assets/hero.gif" alt="Clawd on Desk animated demo showing AI coding agent states" width="92%" />
 </a>
 
-<br />
-
-<sub>Live desktop companion for AI coding agents: thinking, working, permission review, subagents, completion, and sleep states.</sub>
-
-<br />
-<br />
-
-### 🦀 Clawd on Desk · AI Coding Agent Desktop Pet
+<p>
+  <sub>Live desktop companion for AI coding agents: thinking, working, permission review, subagents, completion, and sleep states.</sub><br />
+  <strong>🦀 Clawd on Desk · AI Coding Agent Desktop Pet</strong>
+</p>
 
 <p>
   A pixel desktop companion that watches <strong>Claude Code</strong>, <strong>Codex CLI</strong>, <strong>Copilot CLI</strong>, <strong>Gemini CLI</strong>, <strong>Cursor Agent</strong>, and other AI coding agents in real time.
