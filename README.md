@@ -16,23 +16,50 @@
 
 </div>
 
-## 🌟 Featured Open Source / 置顶开源项目
+<div align="center">
+
+## 🚀 Open Source Focus / 重点开源项目
+
+<a href="https://github.com/rullerzhou-afk/clawd-on-desk">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=92&color=0:0D1117,45:123A6F,100:1F6FEB&section=header&text=Clawd%20on%20Desk&fontColor=FFFFFF&fontSize=34&fontAlignY=52&desc=Maintainer%20of%20a%20cross-platform%20AI%20coding%20agent%20desktop%20pet&descAlignY=78&descSize=13" alt="Clawd on Desk showcase banner" width="100%" />
+</a>
 
 <table>
   <tr>
-    <td width="64%" valign="top">
-      <a href="https://github.com/rullerzhou-afk/clawd-on-desk"><strong>Clawd on Desk</strong></a><br />
-      A cross-platform pixel desktop pet that reacts to Claude Code, Codex CLI, Copilot CLI, Gemini CLI, Cursor Agent, and other AI coding agents in real time.
-      <br /><br />
-      <strong>Role:</strong> maintainer · helping keep agent integrations, documentation, issue triage, and release quality moving with the project team.
+    <td width="58%" valign="top">
+      <h3>🦀 Clawd on Desk</h3>
+      <p>
+        A pixel desktop pet that watches <strong>Claude Code</strong>, <strong>Codex CLI</strong>, <strong>Copilot CLI</strong>, <strong>Gemini CLI</strong>, <strong>Cursor Agent</strong>, and other AI coding agents in real time.
+      </p>
+      <p>
+        <kbd>Maintainer</kbd>
+        <kbd>AI Coding Tools</kbd>
+        <kbd>Electron</kbd>
+        <kbd>Desktop App</kbd>
+        <kbd>Pixel Art</kbd>
+      </p>
+      <p>
+        <a href="https://github.com/rullerzhou-afk/clawd-on-desk/stargazers"><img src="https://img.shields.io/github/stars/rullerzhou-afk/clawd-on-desk?style=for-the-badge&logo=github&color=F7C948&label=Stars" alt="GitHub stars" /></a>
+        <a href="https://github.com/rullerzhou-afk/clawd-on-desk/network/members"><img src="https://img.shields.io/github/forks/rullerzhou-afk/clawd-on-desk?style=for-the-badge&logo=github&color=58A6FF&label=Forks" alt="GitHub forks" /></a>
+        <img src="https://img.shields.io/github/languages/top/rullerzhou-afk/clawd-on-desk?style=for-the-badge&color=7C3AED" alt="Top language" />
+      </p>
+      <p>
+        <strong>My role:</strong> helping maintain agent integrations, documentation clarity, issue triage, and release quality with the project team.
+      </p>
     </td>
-    <td width="36%" align="center">
+    <td width="42%" align="center" valign="top">
       <a href="https://github.com/rullerzhou-afk/clawd-on-desk">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rullerzhou-afk&repo=clawd-on-desk&theme=tokyonight" alt="Clawd on Desk repository card" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rullerzhou-afk&repo=clawd-on-desk&theme=tokyonight&show_owner=true&border_color=1F6FEB&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F7C948" alt="Clawd on Desk repository card" />
       </a>
+      <br /><br />
+      <a href="https://github.com/rullerzhou-afk/clawd-on-desk"><img src="https://img.shields.io/badge/View%20Project-rullerzhou--afk%2Fclawd--on--desk-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="View Clawd on Desk" /></a>
     </td>
   </tr>
 </table>
+
+<sub>Maintaining open-source AI tooling means balancing product experience, cross-platform reliability, integration details, and contributor-friendly documentation.</sub>
+
+</div>
 
 <!--   my-header-img -->
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
