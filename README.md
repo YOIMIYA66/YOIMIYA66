@@ -28,7 +28,7 @@
 </p>
 
 <p>
-  A pixel desktop companion that watches <strong>Claude Code</strong>, <strong>Codex CLI</strong>, <strong>Copilot CLI</strong>, <strong>Gemini CLI</strong>, <strong>Cursor Agent</strong>, and other AI coding agents in real time.
+  Maintainer of <strong>Clawd on Desk</strong>, a real-time desktop pet for AI coding agents.
 </p>
 
 <p>
@@ -52,7 +52,7 @@
 </p>
 
 <blockquote>
-  <strong>Maintainer focus:</strong> agent integrations, documentation clarity, issue triage, release quality, and keeping the contributor experience smooth.
+  <strong>Maintainer focus:</strong> agent integrations, docs, issue triage, releases, and contributor experience.
 </blockquote>
 
 </div>
