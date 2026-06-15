@@ -24,6 +24,17 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=92&color=0:0D1117,45:123A6F,100:1F6FEB&section=header&text=Clawd%20on%20Desk&fontColor=FFFFFF&fontSize=34&fontAlignY=52&desc=Maintainer%20of%20a%20cross-platform%20AI%20coding%20agent%20desktop%20pet&descAlignY=78&descSize=13" alt="Clawd on Desk showcase banner" width="100%" />
 </a>
 
+<a href="https://github.com/rullerzhou-afk/clawd-on-desk">
+  <img src="https://raw.githubusercontent.com/rullerzhou-afk/clawd-on-desk/main/assets/hero.gif" alt="Clawd on Desk animated demo showing AI coding agent states" width="92%" />
+</a>
+
+<br />
+
+<sub>Live desktop companion for AI coding agents: thinking, working, permission review, subagents, completion, and sleep states.</sub>
+
+<br />
+<br />
+
 <table>
   <tr>
     <td width="58%" valign="top">
