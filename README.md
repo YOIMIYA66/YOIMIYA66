@@ -16,6 +16,24 @@
 
 </div>
 
+## 🌟 Featured Open Source / 置顶开源项目
+
+<table>
+  <tr>
+    <td width="64%" valign="top">
+      <a href="https://github.com/rullerzhou-afk/clawd-on-desk"><strong>Clawd on Desk</strong></a><br />
+      A cross-platform pixel desktop pet that reacts to Claude Code, Codex CLI, Copilot CLI, Gemini CLI, Cursor Agent, and other AI coding agents in real time.
+      <br /><br />
+      <strong>Role:</strong> maintainer · helping keep agent integrations, documentation, issue triage, and release quality moving with the project team.
+    </td>
+    <td width="36%" align="center">
+      <a href="https://github.com/rullerzhou-afk/clawd-on-desk">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rullerzhou-afk&repo=clawd-on-desk&theme=tokyonight" alt="Clawd on Desk repository card" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <!--   my-header-img -->
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
