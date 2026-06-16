@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=console.log(%22Hello%2C%20World%22);Lyu%20Bingrong%20wishes%20you%20a%20great%20day!&center=true&size=27)](https://git.io/typing-svg)
 
-<picture>
-  <img src="./assets/header_.png" alt="Header Image" width="100%" />
-</picture>
-
-<div>&nbsp;</div>
-
 </div>
 
 <div align="center">
