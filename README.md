@@ -13,17 +13,18 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Clawd%20on%20Desk-Maintainer-243447?style=flat-square&logo=github&logoColor=white" alt="Clawd on Desk maintainer" />
-  <img src="https://img.shields.io/badge/BAAI-LLM%20Evaluation-243447?style=flat-square&logo=academia&logoColor=white" alt="BAAI LLM evaluation experience" />
+  <strong>Selected Highlights</strong><br />
+  <img src="https://img.shields.io/badge/Clawd%20on%20Desk-Maintainer-1F6FEB?style=flat-square&logo=github&logoColor=white" alt="Clawd on Desk maintainer" />
+  <img src="https://img.shields.io/badge/BAAI-LLM%20Evaluation-0E7490?style=flat-square&logo=academia&logoColor=white" alt="BAAI LLM evaluation experience" />
   <img src="https://img.shields.io/badge/Challenge%20Cup-National%201st%20Prize-B7791F?style=flat-square&logo=trophy&logoColor=white" alt="Challenge Cup national first prize" />
   <img src="https://img.shields.io/badge/Kaggle-2%C3%97%20Bronze%20Medal-8B5E3C?style=flat-square&logo=kaggle&logoColor=white" alt="Two Kaggle bronze medals" />
 </p>
 
 <p>
-  <a href="mailto:lyubingrong@foxmail.com"><img src="https://img.shields.io/badge/Email-lyubingrong%40foxmail.com-243447?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/%E7%82%B3%E8%8D%A3-%E5%90%95-3a13ab3a2/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-Lyu%20Bingrong-243447?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.kaggle.com/lvbingrong"><img src="https://img.shields.io/badge/Kaggle-lvbingrong-243447?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://aistudio.baidu.com/personalcenter/thirdview/4207625"><img src="https://img.shields.io/badge/AI%20Studio-Profile-243447?style=flat-square&logo=baidu&logoColor=white" alt="Baidu AI Studio" /></a>
+  <a href="mailto:lyubingrong@foxmail.com"><img src="https://img.shields.io/badge/Email-lyubingrong%40foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/%E7%82%B3%E8%8D%A3-%E5%90%95-3a13ab3a2/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-Lyu%20Bingrong-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/lvbingrong"><img src="https://img.shields.io/badge/Kaggle-lvbingrong-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://aistudio.baidu.com/personalcenter/thirdview/4207625"><img src="https://img.shields.io/badge/AI%20Studio-Profile-2932E1?style=flat-square&logo=baidu&logoColor=white" alt="Baidu AI Studio" /></a>
 </p>
 
 </div>
@@ -49,26 +50,26 @@
 </p>
 
 <p>
-  <a href="https://github.com/rullerzhou-afk/clawd-on-desk/stargazers"><img src="https://img.shields.io/github/stars/rullerzhou-afk/clawd-on-desk?style=flat-square&logo=github&color=243447&labelColor=0D1117&label=Stars" alt="GitHub stars" /></a>
-  <a href="https://github.com/rullerzhou-afk/clawd-on-desk/network/members"><img src="https://img.shields.io/github/forks/rullerzhou-afk/clawd-on-desk?style=flat-square&logo=github&color=243447&labelColor=0D1117&label=Forks" alt="GitHub forks" /></a>
-  <img src="https://img.shields.io/badge/JavaScript%20%2B%20Electron-243447?style=flat-square&logo=electron&logoColor=white" alt="JavaScript and Electron" />
-  <img src="https://img.shields.io/badge/Role-Maintainer-243447?style=flat-square&logo=githubsponsors&logoColor=white" alt="Maintainer role" />
+  <a href="https://github.com/rullerzhou-afk/clawd-on-desk/stargazers"><img src="https://img.shields.io/github/stars/rullerzhou-afk/clawd-on-desk?style=flat-square&logo=github&color=F7C948&labelColor=4B5563&label=Stars" alt="GitHub stars" /></a>
+  <a href="https://github.com/rullerzhou-afk/clawd-on-desk/network/members"><img src="https://img.shields.io/github/forks/rullerzhou-afk/clawd-on-desk?style=flat-square&logo=github&color=58A6FF&labelColor=4B5563&label=Forks" alt="GitHub forks" /></a>
+  <img src="https://img.shields.io/badge/JavaScript%20%2B%20Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="JavaScript and Electron" />
+  <img src="https://img.shields.io/badge/Role-Maintainer-7C3AED?style=flat-square&logo=githubsponsors&logoColor=white" alt="Maintainer role" />
 </p>
 
 <p>
   <a href="https://github.com/rullerzhou-afk/clawd-on-desk"><img src="https://img.shields.io/badge/View%20Repository-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="View Clawd on Desk repository" /></a>
-  <a href="https://github.com/rullerzhou-afk/clawd-on-desk/releases"><img src="https://img.shields.io/badge/Latest%20Release-111827?style=for-the-badge&logo=github&logoColor=white" alt="Download the latest Clawd on Desk release" /></a>
+  <a href="https://github.com/rullerzhou-afk/clawd-on-desk/releases"><img src="https://img.shields.io/badge/Latest%20Release-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Download the latest Clawd on Desk release" /></a>
 </p>
 
 <sub>Maintainer focus: agent integrations · documentation · issue triage · releases · contributor experience</sub>
 
 </div>
 
-## 👋 About Me / 关于我
+## 🎯 Current Focus / 当前方向
 
-- Building practical applications around LLMs, intelligent tooling, and model evaluation.
-- Participated in LLM evaluation-related work at the **Beijing Academy of Artificial Intelligence (BAAI / 北京智源人工智能研究院)**.
-- Interested in software engineering, developer experience, and turning AI capabilities into reliable products.
+- LLM evaluation and practical AI application development.
+- Open-source developer tooling, desktop UX, and cross-platform engineering.
+- Turning AI prototypes into reliable, maintainable products.
 
 ## 🧰 Tech Stack / 技术栈
 
@@ -76,38 +77,38 @@
 
 <p>
   <strong>Languages & Development</strong><br />
-  <img src="https://img.shields.io/badge/Python-243447?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-243447?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-243447?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Bash-243447?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Node.js-243447?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Electron-243447?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
 </p>
 
 <p>
   <strong>AI & Machine Learning</strong><br />
-  <img src="https://img.shields.io/badge/PyTorch-243447?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-243447?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-243447?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-243447?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/OpenCV-243447?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
 <p>
   <strong>LLMs & AI Services</strong><br />
-  <img src="https://img.shields.io/badge/ChatGPT-243447?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Gemini-243447?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Claude-243447?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/DeepSeek-243447?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
 </p>
 
 <p>
   <strong>Engineering Tools</strong><br />
-  <img src="https://img.shields.io/badge/VS%20Code-243447?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-243447?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-243447?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-243447?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Markdown-243447?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
 </div>
