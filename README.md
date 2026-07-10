@@ -126,6 +126,7 @@
 | 🥉 **National 3rd Prize** <br> <sub>国家级三等奖</sub> | **16th Chinese College Students Service Outsourcing Innovation and Entrepreneurship Competition** <br> <sub>第十六届中国大学生服务外包创新创业大赛</sub> | <kbd>2025</kbd> |
 | 🥉 **Global Final 2nd Runner-up** <br> <sub>全球总决赛季军</sub> | **6th Zhongguancun Talent Maker Competition** <br> <sub>第六届中关村人才创客大赛</sub> | <kbd>2024</kbd> |
 | 🥉 **Kaggle Bronze Medal** <br> <sub>Kaggle 铜牌</sub> | **Kaggle - Deep Past Challenge - Translate Akkadian to English** <br> <sub>Kaggle 竞赛 - 深度古代挑战赛（阿卡德语翻译）</sub> | <kbd>2026.03</kbd> |
+| 🥉 **Kaggle Bronze Medal** <br> <sub>Kaggle 铜牌</sub> | [**NVIDIA Nemotron Model Reasoning Challenge**](https://www.kaggle.com/competitions/nvidia-nemotron-model-reasoning-challenge) <br> <sub>NVIDIA Nemotron 模型推理挑战赛</sub> | <kbd>2026</kbd> |
 | 🚀 **Top 8.5%** <br> <sub>Ranked 160 / 1873 teams</sub> | **TAAC X KDD Cup 2026 - Tencent Uni-Rec Challenge** <br> <sub>TAAC 腾讯广告算法大赛</sub> | <kbd>2026.05</kbd> |
 
 ## 📊 GitHub Activity / GitHub 动态
