@@ -3,20 +3,22 @@
 <h1>Lyu Bingrong · 吕炳荣</h1>
 
 <picture>
+  <source media="(max-width: 480px) and (prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=340&height=50&lines=Software+Engineering+%C2%B7+AI+Builder;Open+Source+%C2%B7+LLM+Evaluation">
+  <source media="(max-width: 480px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2600&pause=800&color=0969DA&center=true&vCenter=true&width=340&height=50&lines=Software+Engineering+%C2%B7+AI+Builder;Open+Source+%C2%B7+LLM+Evaluation">
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=720&height=46&lines=Software+Engineering+%C2%B7+LLMs+%C2%B7+AI+Applications;Open-source+Maintainer+%C2%B7+Product-minded+Builder">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=800&color=0969DA&center=true&vCenter=true&width=720&height=46&lines=Software+Engineering+%C2%B7+LLMs+%C2%B7+AI+Applications;Open-source+Maintainer+%C2%B7+Product-minded+Builder">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=800&color=0969DA&center=true&vCenter=true&width=720&height=46&lines=Software+Engineering+%C2%B7+LLMs+%C2%B7+AI+Applications;Open-source+Maintainer+%C2%B7+Product-minded+Builder" alt="Software Engineering, LLMs, AI Applications, and Open-source Maintainer" />
 </picture>
 
 <p>
-  Software Engineering undergraduate at <strong>North University of China</strong>, focused on practical AI applications, model evaluation, and open-source engineering.
+  Software Engineering undergraduate at <strong>North University of China</strong>, building reliable AI products and developer tools across LLM evaluation, open-source desktop software, and applied machine learning.
 </p>
 
 <p>
   <strong>Selected Highlights</strong><br />
-  <img src="https://img.shields.io/badge/Clawd%20on%20Desk-Maintainer-1F6FEB?style=flat-square&logo=github&logoColor=white" alt="Clawd on Desk maintainer" />
-  <img src="https://img.shields.io/badge/BAAI-LLM%20Evaluation-0E7490?style=flat-square&logo=academia&logoColor=white" alt="BAAI LLM evaluation experience" />
-  <img src="https://img.shields.io/badge/Challenge%20Cup-National%201st%20Prize-B7791F?style=flat-square&logo=trophy&logoColor=white" alt="Challenge Cup national first prize" />
+  <img src="https://img.shields.io/badge/%F0%9F%A6%80%20Clawd%20on%20Desk-Maintainer-1F6FEB?style=flat-square" alt="Clawd on Desk maintainer" />
+  <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20BAAI-LLM%20Evaluation-0E7490?style=flat-square" alt="BAAI LLM evaluation experience" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Challenge%20Cup-National%201st%20Prize-B7791F?style=flat-square" alt="Challenge Cup national first prize" />
   <img src="https://img.shields.io/badge/Kaggle-2%C3%97%20Bronze%20Medal-8B5E3C?style=flat-square&logo=kaggle&logoColor=white" alt="Two Kaggle bronze medals" />
 </p>
 
@@ -29,7 +31,7 @@
 
 </div>
 
-## 🚀 Open Source Focus / 重点开源项目
+## 🚀 Featured Project / 代表项目
 
 <div align="center">
 
@@ -67,16 +69,16 @@
 
 ## 🎯 Current Focus / 当前方向
 
-- LLM evaluation and practical AI application development.
-- Open-source developer tooling, desktop UX, and cross-platform engineering.
-- Turning AI prototypes into reliable, maintainable products.
+- **Open-source product engineering:** cross-platform agent integrations, desktop UX, release operations, and contributor experience.
+- **LLM evaluation & applied AI:** model reasoning, machine translation, recommendation systems, and dependable AI application development.
+- **Developer workflows:** reusable Codex tooling such as the [Teaching Notebook Converter](https://github.com/YOIMIYA66/codex-teaching-notebook-converter) and [AI Studio Real File Upload](https://github.com/YOIMIYA66/aistudio-real-file-upload-skill) skills.
 
 ## 🧰 Tech Stack / 技术栈
 
 <div align="center">
 
 <p>
-  <strong>Languages & Development</strong><br />
+  <strong>💻 Languages & Development</strong><br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
@@ -86,16 +88,16 @@
 </p>
 
 <p>
-  <strong>AI & Machine Learning</strong><br />
+  <strong>🧠 AI & Machine Learning</strong><br />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
 <p>
-  <strong>LLMs & AI Services</strong><br />
+  <strong>✨ LLMs & AI Services</strong><br />
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
@@ -103,7 +105,7 @@
 </p>
 
 <p>
-  <strong>Engineering Tools</strong><br />
+  <strong>🛠️ Engineering Tools</strong><br />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -115,25 +117,23 @@
 
 ## 📜 Philosophy / 个人准则
 
-<div align="center">
-
-> **知行合一**<br />
-> *Knowledge and action are one.*<br />
-> <sub>— Wang Yangming / 王阳明</sub>
-
-</div>
+<p align="center">
+  <a href="https://github.com/YOIMIYA66">
+    <img src="./assets/quote_card.svg" alt="知行合一 · Knowledge and action are one" width="94%" />
+  </a>
+</p>
 
 ## 🏆 Honors & Achievements / 荣誉与奖项
 
 | 🏅 **Award Level / 奖项级别** | 🎯 **Competition / 竞赛成就** | 🗓️ **Date** |
 | :--- | :--- | :---: |
-| 🥇 **National 1st Prize** <br> <sub>国家级一等奖</sub> | **19th "Challenge Cup" National College Student Academic Science Competition - "AI" Special Track** <br> <sub>第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能”专项赛</sub> | <kbd>2025</kbd> |
-| 🥉 **National Bronze Award** <br> <sub>国家级铜奖 / 三等奖</sub> | **China International College Students' Innovation Competition** <br> <sub>中国国际大学生创新大赛</sub> | <kbd>2024</kbd> |
-| 🥉 **National 3rd Prize** <br> <sub>国家级三等奖</sub> | **16th Chinese College Students Service Outsourcing Innovation and Entrepreneurship Competition** <br> <sub>第十六届中国大学生服务外包创新创业大赛</sub> | <kbd>2025</kbd> |
-| 🥉 **Global Final 2nd Runner-up** <br> <sub>全球总决赛季军</sub> | **6th Zhongguancun Talent Maker Competition** <br> <sub>第六届中关村人才创客大赛</sub> | <kbd>2024</kbd> |
-| 🥉 **Kaggle Bronze Medal** <br> <sub>Kaggle 铜牌</sub> | **Kaggle - Deep Past Challenge - Translate Akkadian to English** <br> <sub>Kaggle 竞赛 - 深度古代挑战赛（阿卡德语翻译）</sub> | <kbd>2026.03</kbd> |
-| 🚀 **Top 8.5%** <br> <sub>Ranked 160 / 1873 teams</sub> | **TAAC X KDD Cup 2026 - Tencent Uni-Rec Challenge** <br> <sub>TAAC 腾讯广告算法大赛</sub> | <kbd>2026.05</kbd> |
 | 🥉 **Kaggle Bronze Medal** <br> <sub>Kaggle 铜牌</sub> | **NVIDIA Nemotron Model Reasoning Challenge** <br> <sub>NVIDIA Nemotron 模型推理挑战赛</sub> | <kbd>2026.06</kbd> |
+| 🚀 **Top 8.5%** <br> <sub>Ranked 160 / 1873 teams</sub> | **TAAC X KDD Cup 2026 - Tencent Uni-Rec Challenge** <br> <sub>TAAC 腾讯广告算法大赛</sub> | <kbd>2026.05</kbd> |
+| 🥉 **Kaggle Bronze Medal** <br> <sub>Kaggle 铜牌</sub> | **Kaggle - Deep Past Challenge - Translate Akkadian to English** <br> <sub>Kaggle 竞赛 - 深度古代挑战赛（阿卡德语翻译）</sub> | <kbd>2026.03</kbd> |
+| 🥇 **National 1st Prize** <br> <sub>国家级一等奖</sub> | **19th "Challenge Cup" National College Student Academic Science Competition - "AI" Special Track** <br> <sub>第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能”专项赛</sub> | <kbd>2025</kbd> |
+| 🥉 **National 3rd Prize** <br> <sub>国家级三等奖</sub> | **16th Chinese College Students Service Outsourcing Innovation and Entrepreneurship Competition** <br> <sub>第十六届中国大学生服务外包创新创业大赛</sub> | <kbd>2025</kbd> |
+| 🥉 **National Bronze Award** <br> <sub>国家级铜奖 / 三等奖</sub> | **China International College Students' Innovation Competition** <br> <sub>中国国际大学生创新大赛</sub> | <kbd>2024</kbd> |
+| 🥉 **Global Final 2nd Runner-up** <br> <sub>全球总决赛季军</sub> | **6th Zhongguancun Talent Maker Competition** <br> <sub>第六届中关村人才创客大赛</sub> | <kbd>2024</kbd> |
 
 ## 📊 GitHub Activity / GitHub 动态
 
