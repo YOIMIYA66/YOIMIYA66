@@ -119,7 +119,10 @@
 
 <p align="center">
   <a href="https://github.com/YOIMIYA66">
-    <img src="./assets/quote_card.svg" alt="知行合一 · Knowledge and action are one" width="94%" />
+    <picture>
+      <source media="(max-width: 480px)" srcset="./assets/quote_card_mobile.svg">
+      <img src="./assets/quote_card.svg" alt="知行合一 · Knowledge and action are one" width="94%" />
+    </picture>
   </a>
 </p>
 
