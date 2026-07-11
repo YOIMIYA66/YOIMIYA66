@@ -133,6 +133,17 @@
 | 🥉 **National Bronze Award**<br><sub>国家级铜奖</sub> | **China International College Students’ Innovation Competition**<br><sub>中国国际大学生创新大赛</sub> | `2024` |
 | 🥉 **Global Final 2nd Runner-up**<br><sub>全球总决赛季军</sub> | **6th Zhongguancun Talent Maker Competition**<br><sub>第六届中关村人才创客大赛</sub> | `2024` |
 
+## 📜 Philosophy / 个人准则
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 480px)" srcset="./assets/quote_card_mobile.svg">
+    <img src="./assets/quote_card.svg" alt="知行合一 · Knowledge and action are one" width="94%" />
+  </picture>
+</p>
+
+<p align="center"><sub>Building useful software, one careful iteration at a time.</sub></p>
+
 ## 📊 GitHub Activity / GitHub 动态
 
 <div align="center">
@@ -172,14 +183,3 @@
 <p><sub>Code, experiments, and open-source work—one contribution at a time.</sub></p>
 
 </div>
-
-## 📜 Philosophy / 个人准则
-
-<p align="center">
-  <picture>
-    <source media="(max-width: 480px)" srcset="./assets/quote_card_mobile.svg">
-    <img src="./assets/quote_card.svg" alt="知行合一 · Knowledge and action are one" width="94%" />
-  </picture>
-</p>
-
-<p align="center"><sub>Building useful software, one careful iteration at a time.</sub></p>
