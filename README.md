@@ -137,17 +137,39 @@
 
 <div align="center">
 
+<p><strong>Contribution Overview / 贡献概览</strong></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOIMIYA66&theme=github_dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOIMIYA66&theme=default">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOIMIYA66&theme=default" width="96%" alt="GitHub profile activity summary" />
 </picture>
 
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOIMIYA66&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOIMIYA66&theme=default">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOIMIYA66&theme=default" width="47%" alt="GitHub statistics" />
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOIMIYA66&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOIMIYA66&theme=default">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOIMIYA66&theme=default" width="47%" alt="Top languages by repository" />
+</picture>
+
+<br /><br />
+
+<p><strong>Contribution Journey / 贡献轨迹</strong></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOIMIYA66/YOIMIYA66/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOIMIYA66/YOIMIYA66/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/YOIMIYA66/YOIMIYA66/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/YOIMIYA66/YOIMIYA66/output/github-contribution-grid-snake.svg" width="96%" />
 </picture>
+
+<p><sub>Code, experiments, and open-source work—one contribution at a time.</sub></p>
 
 </div>
 
