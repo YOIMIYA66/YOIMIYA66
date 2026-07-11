@@ -121,15 +121,15 @@
 
 ## 🏆 Selected Achievements / 代表荣誉
 
-| Result / 成绩 | Competition / 赛事 | Date |
+| Result / 成绩 | Competition / 赛事 | Date / 日期 |
 | :--- | :--- | :---: |
-| 🥉 **Kaggle Bronze Medal** | NVIDIA Nemotron Model Reasoning Challenge | `2026.06` |
-| 🚀 **Top 8.5% · 160 / 1,873** | TAAC × KDD Cup 2026 — Tencent Uni-Rec Challenge | `2026.05` |
-| 🥉 **Kaggle Bronze Medal** | Deep Past Challenge — Akkadian to English Translation | `2026.03` |
-| 🥇 **National 1st Prize** | 19th “Challenge Cup” — AI Special Track | `2025` |
-| 🥉 **National 3rd Prize** | Chinese College Students Service Outsourcing Competition | `2025` |
-| 🥉 **National Bronze Award** | China International College Students’ Innovation Competition | `2024` |
-| 🥉 **Global Final 2nd Runner-up** | 6th Zhongguancun Talent Maker Competition | `2024` |
+| 🥉 **Kaggle Bronze Medal**<br><sub>Kaggle 铜牌</sub> | **NVIDIA Nemotron Model Reasoning Challenge**<br><sub>NVIDIA Nemotron 模型推理挑战赛</sub> | `2026.06` |
+| 🚀 **Top 8.5% · 160 / 1,873**<br><sub>全球前 8.5%</sub> | **TAAC × KDD Cup 2026 — Tencent Uni-Rec Challenge**<br><sub>TAAC × KDD Cup 2026 腾讯广告算法大赛</sub> | `2026.05` |
+| 🥉 **Kaggle Bronze Medal**<br><sub>Kaggle 铜牌</sub> | **Deep Past Challenge — Akkadian to English Translation**<br><sub>Deep Past 挑战赛——阿卡德语到英语翻译</sub> | `2026.03` |
+| 🥇 **National 1st Prize**<br><sub>国家级一等奖</sub> | **19th “Challenge Cup” — AI Special Track**<br><sub>第十九届“挑战杯”人工智能专项赛</sub> | `2025` |
+| 🥉 **National 3rd Prize**<br><sub>国家级三等奖</sub> | **Chinese College Students Service Outsourcing Competition**<br><sub>中国大学生服务外包创新创业大赛</sub> | `2025` |
+| 🥉 **National Bronze Award**<br><sub>国家级铜奖</sub> | **China International College Students’ Innovation Competition**<br><sub>中国国际大学生创新大赛</sub> | `2024` |
+| 🥉 **Global Final 2nd Runner-up**<br><sub>全球总决赛季军</sub> | **6th Zhongguancun Talent Maker Competition**<br><sub>第六届中关村人才创客大赛</sub> | `2024` |
 
 ## 📊 GitHub Activity / GitHub 动态
 
