@@ -150,16 +150,6 @@
 
 <div align="center">
 
-<p><strong>Contribution Overview / 贡献概览</strong></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOIMIYA66&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOIMIYA66&theme=default">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOIMIYA66&theme=default" width="96%" alt="GitHub profile activity summary" />
-</picture>
-
-<br /><br />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOIMIYA66&theme=github_dark">
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOIMIYA66&theme=default">
