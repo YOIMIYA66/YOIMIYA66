@@ -150,20 +150,6 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOIMIYA66&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOIMIYA66&theme=default">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOIMIYA66&theme=default" width="47%" alt="GitHub statistics" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOIMIYA66&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOIMIYA66&theme=default">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOIMIYA66&theme=default" width="47%" alt="Top languages by repository" />
-</picture>
-
-<br /><br />
-
 <p><strong>Contribution Journey / 贡献轨迹</strong></p>
 
 <picture>
