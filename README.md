@@ -78,7 +78,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
@@ -103,16 +103,18 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Node.js%20Test%20Runner-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js test runner" />
-  <img src="https://img.shields.io/badge/Cross--platform-Windows%20%C2%B7%20macOS%20%C2%B7%20Linux-4B5563?style=flat-square" alt="Windows, macOS, and Linux" />
+  <img src="https://img.shields.io/badge/%F0%9F%AA%9F%20Windows-0078D4?style=flat-square" alt="Windows" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 <p>
   <strong>LLM & Agent Ecosystem / 大模型与智能体生态</strong><br />
-  <img src="https://img.shields.io/badge/OpenAI%20%2F%20Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI and Codex" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20OpenAI%20%2F%20Codex-412991?style=flat-square" alt="OpenAI and Codex" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/Agent%20Hooks%20%26%20Tooling-0E7490?style=flat-square" alt="Agent hooks and tooling" />
+  <img src="https://img.shields.io/badge/Agent%20Hooks%20%26%20Tooling-0E7490?style=flat-square&logo=robotframework&logoColor=white" alt="Agent hooks and tooling" />
 </p>
 
 </div>
