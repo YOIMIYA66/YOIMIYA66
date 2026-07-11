@@ -146,11 +146,9 @@
 
 <p align="center"><sub>Building useful software, one careful iteration at a time.</sub></p>
 
-## 📊 GitHub Activity / GitHub 动态
+## 🐍 Contribution Journey / 贡献轨迹
 
 <div align="center">
-
-<p><strong>Contribution Journey / 贡献轨迹</strong></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOIMIYA66/YOIMIYA66/output/github-contribution-grid-snake-dark.svg">
