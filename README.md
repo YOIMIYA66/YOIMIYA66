@@ -121,15 +121,17 @@
 
 > I use this stack to ship working systems—not just demos: from model experiments and teaching notebooks to desktop integrations, automated tests, release pipelines, and end-user documentation.
 
-## 🏆 Selected Achievements / 代表荣誉
+## 🏆 Honors & Awards / 荣誉与奖项
+
+<p align="center"><sub>Selected results in AI, data science, and innovation competitions / 人工智能、数据科学与创新创业赛事代表成绩</sub></p>
 
 | Result / 成绩 | Competition / 赛事 | Date / 日期 |
 | :--- | :--- | :---: |
 | 🥉 **Kaggle Bronze Medal**<br><sub>Kaggle 铜牌</sub> | **NVIDIA Nemotron Model Reasoning Challenge**<br><sub>NVIDIA Nemotron 模型推理挑战赛</sub> | `2026.06` |
-| 🚀 **Top 8.5% · 160 / 1,873**<br><sub>全球前 8.5%</sub> | **TAAC × KDD Cup 2026 — Tencent Uni-Rec Challenge**<br><sub>TAAC × KDD Cup 2026 腾讯广告算法大赛</sub> | `2026.05` |
-| 🥉 **Kaggle Bronze Medal**<br><sub>Kaggle 铜牌</sub> | **Deep Past Challenge — Akkadian to English Translation**<br><sub>Deep Past 挑战赛——阿卡德语到英语翻译</sub> | `2026.03` |
-| 🥇 **National 1st Prize**<br><sub>国家级一等奖</sub> | **19th “Challenge Cup” — AI Special Track**<br><sub>第十九届“挑战杯”人工智能专项赛</sub> | `2025` |
-| 🥉 **National 3rd Prize**<br><sub>国家级三等奖</sub> | **Chinese College Students Service Outsourcing Competition**<br><sub>中国大学生服务外包创新创业大赛</sub> | `2025` |
+| 🚀 **Top 8.5% · 160 / 1,873**<br><sub>总排名前 8.5%</sub> | **TAAC × KDD Cup 2026 — Tencent Uni-Rec Challenge**<br><sub>TAAC × KDD Cup 2026 · 腾讯 Uni-Rec 挑战赛</sub> | `2026.05` |
+| 🥉 **Kaggle Bronze Medal**<br><sub>Kaggle 铜牌</sub> | **Deep Past Challenge — Translate Akkadian to English**<br><sub>Deep Past 挑战赛 · 阿卡德语英译</sub> | `2026.03` |
+| 🥇 **National 1st Prize**<br><sub>国家级一等奖</sub> | **19th “Challenge Cup” — AI Special Track**<br><sub>第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”专项赛</sub> | `2025` |
+| 🥉 **National 3rd Prize**<br><sub>国家级三等奖</sub> | **16th Chinese College Students Service Outsourcing Innovation & Entrepreneurship Competition**<br><sub>第十六届中国大学生服务外包创新创业大赛</sub> | `2025` |
 | 🥉 **National Bronze Award**<br><sub>国家级铜奖</sub> | **China International College Students’ Innovation Competition**<br><sub>中国国际大学生创新大赛</sub> | `2024` |
 | 🥉 **Global Final 2nd Runner-up**<br><sub>全球总决赛季军</sub> | **6th Zhongguancun Talent Maker Competition**<br><sub>第六届中关村人才创客大赛</sub> | `2024` |
 
