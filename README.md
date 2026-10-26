@@ -3,11 +3,11 @@
 # Lyu Bingrong · 吕炳荣
 
 <picture>
-  <source media="(max-width: 480px) and (prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=350&height=46&lines=Software+Engineering+%C2%B7+AI+Builder;LLM+Evaluation+%C2%B7+Open+Source">
-  <source media="(max-width: 480px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=350&height=46&lines=Software+Engineering+%C2%B7+AI+Builder;LLM+Evaluation+%C2%B7+Open+Source">
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=44&lines=Software+Engineering+%C2%B7+LLM+Evaluation+%C2%B7+AI+Applications;Open-Source+Maintainer+%C2%B7+Product-Minded+Builder">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=720&height=44&lines=Software+Engineering+%C2%B7+LLM+Evaluation+%C2%B7+AI+Applications;Open-Source+Maintainer+%C2%B7+Product-Minded+Builder">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=720&height=44&lines=Software+Engineering+%C2%B7+LLM+Evaluation+%C2%B7+AI+Applications;Open-Source+Maintainer+%C2%B7+Product-Minded+Builder" alt="Software Engineering · LLM Evaluation · AI Applications" />
+  <source media="(max-width: 480px) and (prefers-color-scheme: dark)" srcset="./assets/hero_tagline_mobile_dark.svg">
+  <source media="(max-width: 480px)" srcset="./assets/hero_tagline_mobile_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero_tagline_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero_tagline_light.svg">
+  <img src="./assets/hero_tagline_light.svg" alt="Software Engineering · LLM Evaluation · AI Applications" />
 </picture>
 
 <p>
@@ -23,7 +23,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%A6%80%20Clawd%20on%20Desk-Maintainer-1F6FEB?style=flat-square" alt="Clawd on Desk maintainer" />
+  <img src="https://img.shields.io/badge/%F0%9F%A6%80%20Clawd%20on%20Desk-%232%20Contributor-1F6FEB?style=flat-square" alt="Clawd on Desk #2 contributor" />
   <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20BAAI-LLM%20Evaluation-0E7490?style=flat-square" alt="BAAI LLM evaluation" />
   <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Challenge%20Cup-National%201st%20Prize-B7791F?style=flat-square" alt="Challenge Cup national first prize" />
   <img src="https://img.shields.io/badge/%F0%9F%A4%96%20RAICOM-National%202nd%20Prize-4F46E5?style=flat-square" alt="RAICOM national second prize" />
@@ -34,7 +34,7 @@
 
 ## 👋 About Me / 关于我
 
-- 🧩 **Open-source product engineering:** maintaining multi-agent integrations, desktop UX, release operations, documentation, and contributor workflows for [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk).
+- 🧩 **Open-source product engineering:** core contributor and collaborator of [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk), focusing on Settings UX, agent integrations, and Windows reliability.
 - 🛡️ **LLM evaluation & safety:** hands-on experience in safety evaluation, adversarial robustness, human preference quality modeling, and subjective benchmark design.
 - 🧠 **Applied AI & modeling:** exploring model reasoning, machine translation, recommendation systems, and computer vision through competitive machine learning and real-world systems.
 - 🌏 **Working style:** product-minded, documentation-first, and comfortable shipping across Windows, macOS, and Linux.
@@ -48,23 +48,11 @@
       <strong>Beijing Academy of Artificial Intelligence (BAAI) · Intelligent Evaluation Group</strong> &nbsp;·&nbsp; <code>2024.11 – 2025.03</code><br />
       <sub>北京智源人工智能研究院 · 智能评测组</sub>
       <ul>
-        <li>
-          <strong>LLM Safety & Adversarial Research / 大模型安全与对抗研究：</strong>
-          Worked on LLM safety evaluation, adversarial attack research, and systematic benchmark construction.<br />
-          <sub>开展大语言模型安全评测与对抗攻击研究，参与安全性与鲁棒性评测基准的构建。</sub>
-        </li>
-        <li>
-          <strong>Annotation Quality Assessment / 匿名评测标注质量建模：</strong>
-          Designed user annotation quality scoring methods for anonymous LLM evaluation competitions to improve human preference data reliability.<br />
-          <sub>参与大模型匿名评测竞赛用户标注质量计算方法的设计，提升人类偏好标注数据的信度与可靠性。</sub>
-        </li>
-        <li>
-          <strong>Subjective Benchmark Design / 主观评测基准研讨：</strong>
-          Contributed to methodology discussions and evaluation criteria formulation for subjective LLM benchmarks.<br />
-          <sub>参与大模型主观评测基准的维度设计、评判标准制定与方案研讨。</sub>
-        </li>
+        <li><strong>LLM Safety & Adversarial Research / 大模型安全与对抗研究</strong> — Worked on LLM safety evaluation, adversarial attack research, and systematic benchmark construction.</li>
+        <li><strong>Annotation Quality Assessment / 标注质量建模</strong> — Designed user annotation quality scoring methods for anonymous LLM evaluation competitions, improving the reliability of human preference data.</li>
+        <li><strong>Subjective Benchmark Design / 主观评测基准</strong> — Contributed to methodology discussions and evaluation criteria for subjective LLM benchmarks.</li>
       </ul>
-      <sub><strong>Focus / 核心领域：</strong> <code>LLM Safety Evaluation</code> · <code>Adversarial Attack &amp; Red Teaming</code> · <code>Arena Annotation Quality</code> · <code>Subjective Benchmarks</code></sub>
+      <sub><strong>Focus:</strong> <code>LLM Safety Evaluation</code> · <code>Adversarial Attack &amp; Red Teaming</code> · <code>Arena Annotation Quality</code> · <code>Subjective Benchmarks</code></sub>
     </td>
   </tr>
 </table>
@@ -75,9 +63,9 @@
 
 <a href="https://github.com/rullerzhou-afk/clawd-on-desk">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=92&color=0:0D1117%2C45:123A6F%2C100:1F6FEB&section=header&text=Clawd%20on%20Desk&fontColor=FFFFFF&fontSize=34&fontAlignY=52&desc=Cross-platform%20desktop%20companion%20for%20AI%20coding%20agents&descAlignY=78&descSize=13">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=92&color=0:F8FAFC%2C45:DBEAFE%2C100:93C5FD&section=header&text=Clawd%20on%20Desk&fontColor=0F172A&fontSize=34&fontAlignY=52&desc=Cross-platform%20desktop%20companion%20for%20AI%20coding%20agents&descAlignY=78&descSize=13">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=92&color=0:F8FAFC%2C45:DBEAFE%2C100:93C5FD&section=header&text=Clawd%20on%20Desk&fontColor=0F172A&fontSize=34&fontAlignY=52&desc=Cross-platform%20desktop%20companion%20for%20AI%20coding%20agents&descAlignY=78&descSize=13" alt="Clawd on Desk" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/clawd_banner_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/clawd_banner_light.svg">
+    <img src="./assets/clawd_banner_light.svg" alt="Clawd on Desk" width="100%" />
   </picture>
 </a>
 
@@ -93,17 +81,47 @@
   <a href="https://github.com/rullerzhou-afk/clawd-on-desk/stargazers"><img src="https://img.shields.io/github/stars/rullerzhou-afk/clawd-on-desk?style=flat-square&logo=github&color=F7C948&labelColor=4B5563&label=Stars" alt="GitHub stars" /></a>
   <a href="https://github.com/rullerzhou-afk/clawd-on-desk/network/members"><img src="https://img.shields.io/github/forks/rullerzhou-afk/clawd-on-desk?style=flat-square&logo=github&color=58A6FF&labelColor=4B5563&label=Forks" alt="GitHub forks" /></a>
   <img src="https://img.shields.io/badge/JavaScript%20%2B%20Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="JavaScript and Electron" />
-  <img src="https://img.shields.io/badge/Role-Maintainer-7C3AED?style=flat-square" alt="Maintainer" />
+  <img src="https://img.shields.io/badge/Role-Collaborator-7C3AED?style=flat-square" alt="Collaborator" />
 </p>
-
-<p>
-  <a href="https://github.com/rullerzhou-afk/clawd-on-desk"><img src="https://img.shields.io/badge/Explore%20the%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Explore the project" /></a>
-  <a href="https://github.com/rullerzhou-afk/clawd-on-desk/releases"><img src="https://img.shields.io/badge/Latest%20Release-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Latest release" /></a>
-</p>
-
-<sub>Maintainer focus: agent integrations · cross-platform behavior · release engineering · contributor experience</sub>
 
 </div>
+
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>#2</strong><br /><sub>Contributor by commits<br />贡献者排名</sub></td>
+    <td align="center" width="25%"><strong>66</strong><br /><sub>Merged PRs<br />合并 PR</sub></td>
+    <td align="center" width="25%"><strong>140+</strong><br /><sub>Commits<br />提交</sub></td>
+    <td align="center" width="25%"><strong>+34k / −6k</strong><br /><sub>Lines changed<br />代码增删</sub></td>
+  </tr>
+</table>
+
+**My contributions / 我的贡献** <sub>· Collaborator with write access since 2026.04</sub>
+
+- 🎛️ **Settings UX system / 设置系统** — Unified tabs, switches, form fields, action buttons, language picker, and disclosure animations into a consistent component system; added quota display modes and replaced native dialogs with in-app confirmation modals.
+- 🔌 **Agent integrations / Agent 接入** — Completed the Gemini hook-only integration and its settings controls, made Claude hook management asynchronous, enabled opening Codex Desktop sessions from the Dashboard, and standardized agent icon assets.
+- 🪟 **Windows reliability / Windows 稳定性** — Fixed taskbar icons, open-at-login, low-power eye tracking after resume, and settings slider preview issues.
+- 🔔 **Update experience / 更新体验** — Replaced blocking update dialogs with theme-aware, pet-following update bubbles.
+- 🤝 **Community / 社区** — Added bilingual issue and PR templates and kept Chinese and localized setup docs in sync.
+
+<p align="center">
+  <a href="https://github.com/rullerzhou-afk/clawd-on-desk/pulls?q=is%3Apr+author%3AYOIMIYA66+is%3Amerged"><img src="https://img.shields.io/badge/View%20My%20Merged%20PRs-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="View my merged PRs" /></a>
+  <a href="https://github.com/rullerzhou-afk/clawd-on-desk"><img src="https://img.shields.io/badge/Explore%20the%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore the project" /></a>
+</p>
+
+## 🏆 Honors & Awards / 荣誉与奖项
+
+<p align="center"><sub>Selected results in AI, data science, and innovation competitions / 人工智能、数据科学与创新创业赛事代表成绩</sub></p>
+
+| Result / 成绩 | Competition / 赛事 | Date / 日期 |
+| :--- | :--- | :---: |
+| 🥈 **National 2nd Prize**<br><sub>国家级二等奖</sub> | **2026 RAICOM Robotics Developer Competition — National Finals**<br><sub>2026 睿抗机器人开发者大赛（RAICOM）全国总决赛</sub> | `2026.08` |
+| 🥉 **Kaggle Bronze Medal**<br><sub>Kaggle 铜牌</sub> | **NVIDIA Nemotron Model Reasoning Challenge**<br><sub>NVIDIA Nemotron 模型推理挑战赛</sub> | `2026.06` |
+| 🚀 **Top 8.5% · 160 / 1,873**<br><sub>总排名前 8.5%</sub> | **TAAC × KDD Cup 2026 — Tencent Uni-Rec Challenge**<br><sub>TAAC × KDD Cup 2026 · 腾讯 Uni-Rec 挑战赛</sub> | `2026.05` |
+| 🥉 **Kaggle Bronze Medal**<br><sub>Kaggle 铜牌</sub> | **Deep Past Challenge — Translate Akkadian to English**<br><sub>Deep Past 挑战赛 · 阿卡德语英译</sub> | `2026.03` |
+| 🥇 **National 1st Prize**<br><sub>国家级一等奖</sub> | **19th “Challenge Cup” — AI Special Track**<br><sub>第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”专项赛</sub> | `2025` |
+| 🥉 **National 3rd Prize**<br><sub>国家级三等奖</sub> | **16th Chinese College Students Service Outsourcing Innovation & Entrepreneurship Competition**<br><sub>第十六届中国大学生服务外包创新创业大赛</sub> | `2025` |
+| 🥉 **National Bronze Award**<br><sub>国家级铜奖</sub> | **China International College Students’ Innovation Competition**<br><sub>中国国际大学生创新大赛</sub> | `2024` |
+| 🥉 **Global Final 2nd Runner-up**<br><sub>全球总决赛季军</sub> | **6th Zhongguancun Talent Maker Competition**<br><sub>第六届中关村人才创客大赛</sub> | `2024` |
 
 ## 🧰 Tech Stack / 技术栈
 
@@ -157,21 +175,6 @@
 </div>
 
 > I use this stack to ship working systems—not just demos: from LLM evaluation pipelines and model experiments to desktop integrations, automated tests, release engineering, and end-user documentation.
-
-## 🏆 Honors & Awards / 荣誉与奖项
-
-<p align="center"><sub>Selected results in AI, data science, and innovation competitions / 人工智能、数据科学与创新创业赛事代表成绩</sub></p>
-
-| Result / 成绩 | Competition / 赛事 | Date / 日期 |
-| :--- | :--- | :---: |
-| 🥈 **National 2nd Prize**<br><sub>国家级二等奖</sub> | **2026 RAICOM Robotics Developer Competition — National Finals**<br><sub>2026 睿抗机器人开发者大赛（RAICOM）全国总决赛</sub> | `2026.08` |
-| 🥉 **Kaggle Bronze Medal**<br><sub>Kaggle 铜牌</sub> | **NVIDIA Nemotron Model Reasoning Challenge**<br><sub>NVIDIA Nemotron 模型推理挑战赛</sub> | `2026.06` |
-| 🚀 **Top 8.5% · 160 / 1,873**<br><sub>总排名前 8.5%</sub> | **TAAC × KDD Cup 2026 — Tencent Uni-Rec Challenge**<br><sub>TAAC × KDD Cup 2026 · 腾讯 Uni-Rec 挑战赛</sub> | `2026.05` |
-| 🥉 **Kaggle Bronze Medal**<br><sub>Kaggle 铜牌</sub> | **Deep Past Challenge — Translate Akkadian to English**<br><sub>Deep Past 挑战赛 · 阿卡德语英译</sub> | `2026.03` |
-| 🥇 **National 1st Prize**<br><sub>国家级一等奖</sub> | **19th “Challenge Cup” — AI Special Track**<br><sub>第十九届“挑战杯”全国大学生课外学术科技作品竞赛“人工智能+”专项赛</sub> | `2025` |
-| 🥉 **National 3rd Prize**<br><sub>国家级三等奖</sub> | **16th Chinese College Students Service Outsourcing Innovation & Entrepreneurship Competition**<br><sub>第十六届中国大学生服务外包创新创业大赛</sub> | `2025` |
-| 🥉 **National Bronze Award**<br><sub>国家级铜奖</sub> | **China International College Students’ Innovation Competition**<br><sub>中国国际大学生创新大赛</sub> | `2024` |
-| 🥉 **Global Final 2nd Runner-up**<br><sub>全球总决赛季军</sub> | **6th Zhongguancun Talent Maker Competition**<br><sub>第六届中关村人才创客大赛</sub> | `2024` |
 
 ## 📜 Philosophy / 个人准则
 
