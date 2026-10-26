@@ -41,33 +41,22 @@
 
 ## 💼 Experience / 实习经历
 
-<table>
-  <tr>
-    <td width="100%">
-      <strong>🧠 Intelligent Evaluation Intern · 智能评测实习生</strong><br />
-      <strong>Beijing Academy of Artificial Intelligence (BAAI) · Intelligent Evaluation Group</strong> &nbsp;·&nbsp; <code>2024.11 – 2025.03</code><br />
-      <sub>北京智源人工智能研究院 · 智能评测组</sub>
-      <ul>
-        <li>
-          <strong>LLM Safety & Adversarial Research / 大模型安全与对抗研究：</strong>
-          Conducted safety evaluations of large language models and researched adversarial attack strategies to probe model vulnerabilities and robustness boundaries; contributed to building systematic safety and robustness benchmarks.<br />
-          <sub>开展大语言模型安全评测与对抗攻击研究，系统探测模型的安全漏洞与鲁棒性边界，参与构建体系化的安全性与鲁棒性评测基准。</sub>
-        </li>
-        <li>
-          <strong>Annotation Quality Modeling / 匿名评测标注质量建模：</strong>
-          Co-designed the user annotation quality scoring method for anonymous, arena-style LLM evaluation competitions — helping identify low-quality annotations and strengthen the reliability of the human preference data behind model rankings.<br />
-          <sub>参与设计大模型匿名评测竞赛的用户标注质量计算方法，用于识别低质量标注、提升人类偏好数据的可信度，为模型排名的公正性提供支撑。</sub>
-        </li>
-        <li>
-          <strong>Subjective Benchmark Design / 主观评测基准研讨：</strong>
-          Participated in methodology discussions for subjective LLM benchmarks, contributing ideas on evaluation dimensions, scoring criteria, and protocol design.<br />
-          <sub>参与大模型主观评测基准的方案研讨，围绕评测维度、评分标准与评测流程设计提出建议。</sub>
-        </li>
-      </ul>
-      <sub><strong>Focus / 核心领域：</strong> <code>LLM Safety Evaluation</code> · <code>Adversarial Attack &amp; Red Teaming</code> · <code>Arena Annotation Quality</code> · <code>Subjective Benchmarks</code></sub>
-    </td>
-  </tr>
-</table>
+### 🧠 Beijing Academy of Artificial Intelligence (BAAI) · 北京智源人工智能研究院
+**Intelligent Evaluation Intern · 智能评测实习生** &nbsp;·&nbsp; `2024.11 – 2025.03` &nbsp;·&nbsp; *Intelligent Evaluation Group*
+
+- **LLM Safety & Adversarial Research / 大模型安全评测与对抗攻击**  
+  Conducted systematic safety evaluations of large language models and researched adversarial attack strategies to probe model vulnerabilities and robustness boundaries; contributed to building comprehensive safety benchmarks.  
+  *开展大语言模型安全评测与对抗攻击研究，系统探索模型漏洞与鲁棒性边界，参与构建体系化安全性与鲁棒性评测基准。*
+
+- **Annotation Quality Modeling / 匿名评测标注质量建模**  
+  Co-designed user annotation quality scoring algorithms for anonymous arena-style LLM evaluation competitions — identifying low-quality and noisy annotations to reinforce the reliability of human preference rankings.  
+  *参与设计大模型匿名评测竞赛的用户标注质量计算方法，精准识别低质与异常标注，为人类偏好数据信度与模型排名公正性提供保障。*
+
+- **Subjective Benchmark Design / 主观评测基准研讨**  
+  Participated in methodology discussions and evaluation protocol design for subjective LLM benchmarks, contributing to multidimensional scoring rubrics and standard test cases.  
+  *参与大模型主观评测基准的方法论研讨与方案制定，深度参与多维度打分标准、评测流程与测试规范的设计。*
+
+> 📌 **Focus / 核心领域：** `LLM Safety Evaluation` · `Adversarial Attack & Red Teaming` · `Arena Annotation Quality` · `Subjective Benchmarks`
 
 ## 🚀 Featured Project / 代表项目
 
@@ -100,16 +89,10 @@
 
 **What I own as a maintainer / 我负责的方向**
 
-- 🎛️ **Settings UX architecture / 设置系统架构** — Rebuilt the Settings UI into a consistent component system — tabs, switches, form fields, action buttons, language picker, and disclosure animations — and replaced native OS dialogs with in-app confirmation flows.<br /><sub>将设置页重构为统一的组件体系，并用应用内确认流程替代系统原生对话框，显著提升一致性与交互质感。</sub>
-- 🔌 **Multi-agent integrations / 多 Agent 接入** — Completed the Gemini hook-only integration, moved Claude hook management off the main thread, enabled one-click jumps into Codex Desktop sessions from the Dashboard, and standardized agent icon assets.<br /><sub>完成 Gemini 接入、Claude hooks 异步化管理、Dashboard 一键跳转 Codex Desktop 会话，并统一 Agent 图标资产。</sub>
-- 🪟 **Windows platform quality / Windows 平台质量** — Resolved taskbar icon, open-at-login, post-resume eye tracking, and slider preview issues across Windows environments.<br /><sub>系统性修复 Windows 下任务栏图标、开机自启、休眠恢复后眼球追踪等平台问题。</sub>
-- 🔔 **Update experience / 更新体验** — Replaced blocking update dialogs with theme-aware update bubbles that follow the pet on screen.<br /><sub>以跟随桌宠、适配主题的更新气泡取代阻塞式更新弹窗。</sub>
-- 🤝 **Community & docs / 社区与文档** — Introduced bilingual issue and PR templates and kept Chinese and localized setup guides in sync with the product.<br /><sub>引入中英双语 Issue / PR 模板，持续同步中文及多语言文档。</sub>
-
-<p align="center">
-  <a href="https://github.com/rullerzhou-afk/clawd-on-desk/pulls?q=is%3Apr+author%3AYOIMIYA66+is%3Amerged"><img src="https://img.shields.io/badge/View%20My%20Merged%20PRs-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="View my merged PRs" /></a>
-  <a href="https://github.com/rullerzhou-afk/clawd-on-desk"><img src="https://img.shields.io/badge/Explore%20the%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore the project" /></a>
-</p>
+- 🎛️ **Settings UX & Architecture / 设置与交互系统架构** — Designing and maintaining the unified settings component system, in-app configuration workflows, and user preference management.<br />*主导设置系统与交互组件架构设计，重构统一配置界面与应用内交互流程，保障用户配置的一致性与产品体验。*
+- 🔌 **Agent Runtime & Ecosystem Integrations / 多 Agent 运行时与生态集成** — Driving multi-agent hook architecture, background session handling, and deep ecosystem integrations across 20+ AI coding agents.<br />*负责多 Agent Hook 架构、后台会话与生态接入，推进 Gemini 等 agent 深度集成与异步调度，保障数十款 Agent 的稳定联动。*
+- 🪟 **Desktop Reliability & Native Platform Quality / 桌面端质量与平台适配** — Hardening Electron lifecycle stability, window management, and native system integration across Windows, macOS, and Linux.<br />*负责 Electron 桌面端核心生命周期、系统托盘、后台唤醒与原生系统集成，系统性优化 Windows 平台稳定性与多端体验。*
+- 🔔 **Interactive Features & Release Engineering / 特性体验与工程发版** — Shipping interactive features like pet-following notification bubbles, maintaining CI/CD releases, and curating bilingual developer docs.<br />*打造跟随桌宠的状态气泡等交互特性，协同发版工程与 CI 流程，持续维护中英双语架构文档与社区贡献生态。*
 
 ## 🏆 Honors & Awards / 荣誉与奖项
 
