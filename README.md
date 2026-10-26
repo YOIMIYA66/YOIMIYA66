@@ -11,7 +11,7 @@
 </picture>
 
 <p>
-  Software Engineering undergraduate at <strong>North University of China</strong>, working where <strong>LLM evaluation</strong>, <strong>AI engineering</strong>, and <strong>open-source product development</strong> meet.<br />
+  Software Engineering undergraduate at <strong>North University of China</strong>, working where <strong>LLM evaluation</strong> and <strong>AI engineering</strong> meet.<br />
   I build AI systems that are measurable, reliable, and genuinely useful — and ship them to real users.
 </p>
 
