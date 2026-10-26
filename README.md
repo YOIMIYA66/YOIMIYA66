@@ -23,7 +23,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%A6%80%20Clawd%20on%20Desk-%232%20Contributor-1F6FEB?style=flat-square" alt="Clawd on Desk #2 contributor" />
+  <img src="https://img.shields.io/badge/%F0%9F%A6%80%20Clawd%20on%20Desk-Maintainer%20%C2%B7%20%233%20Contributor-1F6FEB?style=flat-square" alt="Clawd on Desk maintainer and #3 contributor" />
   <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20BAAI-LLM%20Evaluation-0E7490?style=flat-square" alt="BAAI LLM evaluation" />
   <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Challenge%20Cup-National%201st%20Prize-B7791F?style=flat-square" alt="Challenge Cup national first prize" />
   <img src="https://img.shields.io/badge/%F0%9F%A4%96%20RAICOM-National%202nd%20Prize-4F46E5?style=flat-square" alt="RAICOM national second prize" />
@@ -34,7 +34,7 @@
 
 ## 👋 About Me / 关于我
 
-- 🧩 **Open-source product engineering:** core contributor and collaborator of [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk), focusing on Settings UX, agent integrations, and Windows reliability.
+- 🧩 **Open-source product engineering:** maintainer and #3 contributor of [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk), focusing on Settings UX, agent integrations, and Windows reliability.
 - 🛡️ **LLM evaluation & safety:** hands-on experience in safety evaluation, adversarial robustness, human preference quality modeling, and subjective benchmark design.
 - 🧠 **Applied AI & modeling:** exploring model reasoning, machine translation, recommendation systems, and computer vision through competitive machine learning and real-world systems.
 - 🌏 **Working style:** product-minded, documentation-first, and comfortable shipping across Windows, macOS, and Linux.
@@ -81,21 +81,21 @@
   <a href="https://github.com/rullerzhou-afk/clawd-on-desk/stargazers"><img src="https://img.shields.io/github/stars/rullerzhou-afk/clawd-on-desk?style=flat-square&logo=github&color=F7C948&labelColor=4B5563&label=Stars" alt="GitHub stars" /></a>
   <a href="https://github.com/rullerzhou-afk/clawd-on-desk/network/members"><img src="https://img.shields.io/github/forks/rullerzhou-afk/clawd-on-desk?style=flat-square&logo=github&color=58A6FF&labelColor=4B5563&label=Forks" alt="GitHub forks" /></a>
   <img src="https://img.shields.io/badge/JavaScript%20%2B%20Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="JavaScript and Electron" />
-  <img src="https://img.shields.io/badge/Role-Collaborator-7C3AED?style=flat-square" alt="Collaborator" />
+  <img src="https://img.shields.io/badge/Role-Maintainer-7C3AED?style=flat-square" alt="Maintainer" />
 </p>
 
 </div>
 
 <table>
   <tr>
-    <td align="center" width="25%"><strong>#2</strong><br /><sub>Contributor by commits<br />贡献者排名</sub></td>
+    <td align="center" width="25%"><strong>#3</strong><br /><sub>Contributor<br />贡献者排名</sub></td>
     <td align="center" width="25%"><strong>66</strong><br /><sub>Merged PRs<br />合并 PR</sub></td>
     <td align="center" width="25%"><strong>140+</strong><br /><sub>Commits<br />提交</sub></td>
     <td align="center" width="25%"><strong>+34k / −6k</strong><br /><sub>Lines changed<br />代码增删</sub></td>
   </tr>
 </table>
 
-**My contributions / 我的贡献** <sub>· Collaborator with write access since 2026.04</sub>
+**My contributions / 我的贡献** <sub>· Maintainer since 2026.04</sub>
 
 - 🎛️ **Settings UX system / 设置系统** — Unified tabs, switches, form fields, action buttons, language picker, and disclosure animations into a consistent component system; added quota display modes and replaced native dialogs with in-app confirmation modals.
 - 🔌 **Agent integrations / Agent 接入** — Completed the Gemini hook-only integration and its settings controls, made Claude hook management asynchronous, enabled opening Codex Desktop sessions from the Dashboard, and standardized agent icon assets.
