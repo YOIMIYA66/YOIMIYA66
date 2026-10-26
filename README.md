@@ -2,11 +2,17 @@
 
 # Lyu Bingrong · 吕炳荣
 
-### Software Engineering · AI Applications · Open Source
+<picture>
+  <source media="(max-width: 480px) and (prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=350&height=46&lines=Software+Engineering+%C2%B7+AI+Builder;LLM+Evaluation+%C2%B7+Open+Source">
+  <source media="(max-width: 480px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=350&height=46&lines=Software+Engineering+%C2%B7+AI+Builder;LLM+Evaluation+%C2%B7+Open+Source">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=44&lines=Software+Engineering+%C2%B7+LLM+Evaluation+%C2%B7+AI+Applications;Open-Source+Maintainer+%C2%B7+Product-Minded+Builder">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=720&height=44&lines=Software+Engineering+%C2%B7+LLM+Evaluation+%C2%B7+AI+Applications;Open-Source+Maintainer+%C2%B7+Product-Minded+Builder">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=720&height=44&lines=Software+Engineering+%C2%B7+LLM+Evaluation+%C2%B7+AI+Applications;Open-Source+Maintainer+%C2%B7+Product-Minded+Builder" alt="Software Engineering · LLM Evaluation · AI Applications" />
+</picture>
 
 <p>
   Software Engineering undergraduate at <strong>North University of China</strong>.<br />
-  I build dependable AI products, developer tools, and cross-platform desktop software.
+  Building dependable AI products, LLM evaluation methodologies, and cross-platform desktop software.
 </p>
 
 <p>
@@ -17,9 +23,10 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Clawd%20on%20Desk-Maintainer-1F6FEB?style=flat-square" alt="Clawd on Desk maintainer" />
-  <img src="https://img.shields.io/badge/BAAI-LLM%20Evaluation-0E7490?style=flat-square" alt="BAAI LLM evaluation" />
-  <img src="https://img.shields.io/badge/Challenge%20Cup-National%201st%20Prize-B7791F?style=flat-square" alt="Challenge Cup national first prize" />
+  <img src="https://img.shields.io/badge/%F0%9F%A6%80%20Clawd%20on%20Desk-Maintainer-1F6FEB?style=flat-square" alt="Clawd on Desk maintainer" />
+  <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20BAAI-LLM%20Evaluation-0E7490?style=flat-square" alt="BAAI LLM evaluation" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Challenge%20Cup-National%201st%20Prize-B7791F?style=flat-square" alt="Challenge Cup national first prize" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20RAICOM-National%202nd%20Prize-4F46E5?style=flat-square" alt="RAICOM national second prize" />
   <img src="https://img.shields.io/badge/Kaggle-2%C3%97%20Bronze-8B5E3C?style=flat-square&logo=kaggle&logoColor=white" alt="Two Kaggle bronze medals" />
 </p>
 
@@ -27,9 +34,9 @@
 
 ## 👋 About Me / 关于我
 
-- 🧩 **Open-source product engineering:** maintaining agent integrations, desktop UX, releases, documentation, and contributor workflows for [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk).
-- 🧠 **LLM evaluation & applied AI:** exploring model safety & alignment, reasoning, machine translation, recommendation systems, computer vision, and reliable AI application development.
-- 🛠️ **Developer experience:** turning repeatable workflows into practical Codex skills, including [Teaching Notebook Converter](https://github.com/YOIMIYA66/codex-teaching-notebook-converter) and [AI Studio Real File Upload](https://github.com/YOIMIYA66/aistudio-real-file-upload-skill).
+- 🧩 **Open-source product engineering:** maintaining multi-agent integrations, desktop UX, release operations, documentation, and contributor workflows for [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk).
+- 🛡️ **LLM evaluation & safety:** hands-on experience in safety evaluation, adversarial robustness, human preference quality modeling, and subjective benchmark design.
+- 🧠 **Applied AI & modeling:** exploring model reasoning, machine translation, recommendation systems, and computer vision through competitive machine learning and real-world systems.
 - 🌏 **Working style:** product-minded, documentation-first, and comfortable shipping across Windows, macOS, and Linux.
 
 ## 💼 Experience / 实习经历
@@ -57,6 +64,7 @@
           <sub>参与大模型主观评测基准的维度设计、评判标准制定与方案研讨。</sub>
         </li>
       </ul>
+      <sub><strong>Focus / 核心领域：</strong> <code>LLM Safety Evaluation</code> · <code>Adversarial Attack &amp; Red Teaming</code> · <code>Arena Annotation Quality</code> · <code>Subjective Benchmarks</code></sub>
     </td>
   </tr>
 </table>
@@ -148,7 +156,7 @@
 
 </div>
 
-> I use this stack to ship working systems—not just demos: from model experiments and teaching notebooks to desktop integrations, automated tests, release pipelines, and end-user documentation.
+> I use this stack to ship working systems—not just demos: from LLM evaluation pipelines and model experiments to desktop integrations, automated tests, release engineering, and end-user documentation.
 
 ## 🏆 Honors & Awards / 荣誉与奖项
 
@@ -169,12 +177,14 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 480px)" srcset="./assets/quote_card_mobile.svg">
-    <img src="./assets/quote_card.svg" alt="知行合一 · Knowledge and action are one" width="94%" />
+    <source media="(max-width: 480px) and (prefers-color-scheme: dark)" srcset="./assets/quote_card_mobile.svg">
+    <source media="(max-width: 480px) and (prefers-color-scheme: light)" srcset="./assets/quote_card_mobile_light.svg">
+    <source media="(max-width: 480px)" srcset="./assets/quote_card_mobile_light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/quote_card.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/quote_card_light.svg">
+    <img src="./assets/quote_card_light.svg" alt="知行合一 · Knowledge and action are one" width="94%" />
   </picture>
 </p>
-
-<p align="center"><sub>Building useful software, one careful iteration at a time.</sub></p>
 
 ## 🐍 Contribution Journey / 贡献轨迹
 
@@ -186,6 +196,6 @@
   <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/YOIMIYA66/YOIMIYA66/output/github-contribution-grid-snake.svg" width="96%" />
 </picture>
 
-<p><sub>Code, experiments, and open-source work—one contribution at a time.</sub></p>
+<p><sub>Building useful software, one careful iteration at a time.</sub></p>
 
 </div>
