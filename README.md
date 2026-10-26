@@ -28,9 +28,38 @@
 ## 👋 About Me / 关于我
 
 - 🧩 **Open-source product engineering:** maintaining agent integrations, desktop UX, releases, documentation, and contributor workflows for [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk).
-- 🧠 **LLM evaluation & applied AI:** exploring model reasoning, machine translation, recommendation systems, computer vision, and reliable AI application development.
+- 🧠 **LLM evaluation & applied AI:** exploring model safety & alignment, reasoning, machine translation, recommendation systems, computer vision, and reliable AI application development.
 - 🛠️ **Developer experience:** turning repeatable workflows into practical Codex skills, including [Teaching Notebook Converter](https://github.com/YOIMIYA66/codex-teaching-notebook-converter) and [AI Studio Real File Upload](https://github.com/YOIMIYA66/aistudio-real-file-upload-skill).
 - 🌏 **Working style:** product-minded, documentation-first, and comfortable shipping across Windows, macOS, and Linux.
+
+## 💼 Experience / 实习经历
+
+<table>
+  <tr>
+    <td width="100%">
+      <strong>🧠 Intelligent Evaluation Intern · 智能评测实习生</strong><br />
+      <strong>Beijing Academy of Artificial Intelligence (BAAI) · Intelligent Evaluation Group</strong> &nbsp;·&nbsp; <code>2024.11 – 2025.03</code><br />
+      <sub>北京智源人工智能研究院 · 智能评测组</sub>
+      <ul>
+        <li>
+          <strong>LLM Safety & Adversarial Research / 大模型安全与对抗研究：</strong>
+          Worked on LLM safety evaluation, adversarial attack research, and systematic benchmark construction.<br />
+          <sub>开展大语言模型安全评测与对抗攻击研究，参与安全性与鲁棒性评测基准的构建。</sub>
+        </li>
+        <li>
+          <strong>Annotation Quality Assessment / 匿名评测标注质量建模：</strong>
+          Designed user annotation quality scoring methods for anonymous LLM evaluation competitions to improve human preference data reliability.<br />
+          <sub>参与大模型匿名评测竞赛用户标注质量计算方法的设计，提升人类偏好标注数据的信度与可靠性。</sub>
+        </li>
+        <li>
+          <strong>Subjective Benchmark Design / 主观评测基准研讨：</strong>
+          Contributed to methodology discussions and evaluation criteria formulation for subjective LLM benchmarks.<br />
+          <sub>参与大模型主观评测基准的维度设计、评判标准制定与方案研讨。</sub>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Featured Project / 代表项目
 
@@ -127,6 +156,7 @@
 
 | Result / 成绩 | Competition / 赛事 | Date / 日期 |
 | :--- | :--- | :---: |
+| 🥈 **National 2nd Prize**<br><sub>国家级二等奖</sub> | **2026 RAICOM Robotics Developer Competition — National Finals**<br><sub>2026 睿抗机器人开发者大赛（RAICOM）全国总决赛</sub> | `2026.08` |
 | 🥉 **Kaggle Bronze Medal**<br><sub>Kaggle 铜牌</sub> | **NVIDIA Nemotron Model Reasoning Challenge**<br><sub>NVIDIA Nemotron 模型推理挑战赛</sub> | `2026.06` |
 | 🚀 **Top 8.5% · 160 / 1,873**<br><sub>总排名前 8.5%</sub> | **TAAC × KDD Cup 2026 — Tencent Uni-Rec Challenge**<br><sub>TAAC × KDD Cup 2026 · 腾讯 Uni-Rec 挑战赛</sub> | `2026.05` |
 | 🥉 **Kaggle Bronze Medal**<br><sub>Kaggle 铜牌</sub> | **Deep Past Challenge — Translate Akkadian to English**<br><sub>Deep Past 挑战赛 · 阿卡德语英译</sub> | `2026.03` |
