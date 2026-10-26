@@ -11,8 +11,8 @@
 </picture>
 
 <p>
-  Software Engineering undergraduate at <strong>North University of China</strong>.<br />
-  Building dependable AI products, LLM evaluation methodologies, and cross-platform desktop software.
+  Software Engineering undergraduate at <strong>North University of China</strong>, working where <strong>LLM evaluation</strong>, <strong>AI engineering</strong>, and <strong>open-source product development</strong> meet.<br />
+  I build AI systems that are measurable, reliable, and genuinely useful — and ship them to real users.
 </p>
 
 <p>
@@ -23,7 +23,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%A6%80%20Clawd%20on%20Desk-Maintainer%20%C2%B7%20%233%20Contributor-1F6FEB?style=flat-square" alt="Clawd on Desk maintainer and #3 contributor" />
+  <img src="https://img.shields.io/badge/%F0%9F%A6%80%20Clawd%20on%20Desk-Maintainer-1F6FEB?style=flat-square" alt="Clawd on Desk maintainer" />
   <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20BAAI-LLM%20Evaluation-0E7490?style=flat-square" alt="BAAI LLM evaluation" />
   <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Challenge%20Cup-National%201st%20Prize-B7791F?style=flat-square" alt="Challenge Cup national first prize" />
   <img src="https://img.shields.io/badge/%F0%9F%A4%96%20RAICOM-National%202nd%20Prize-4F46E5?style=flat-square" alt="RAICOM national second prize" />
@@ -34,10 +34,10 @@
 
 ## 👋 About Me / 关于我
 
-- 🧩 **Open-source product engineering:** maintainer and #3 contributor of [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk), focusing on Settings UX, agent integrations, and Windows reliability.
-- 🛡️ **LLM evaluation & safety:** hands-on experience in safety evaluation, adversarial robustness, human preference quality modeling, and subjective benchmark design.
-- 🧠 **Applied AI & modeling:** exploring model reasoning, machine translation, recommendation systems, and computer vision through competitive machine learning and real-world systems.
-- 🌏 **Working style:** product-minded, documentation-first, and comfortable shipping across Windows, macOS, and Linux.
+- 🧩 **Open-source maintainer** — Maintainer of [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk), a cross-platform Electron app with **6k+ GitHub stars**; I own the Settings experience, multi-agent integrations, and Windows platform quality, with **66 merged PRs** since April 2026.
+- 🛡️ **LLM evaluation & safety** — Former intern at the **Beijing Academy of Artificial Intelligence (BAAI)**, working on safety evaluation, adversarial attacks, human-preference data quality, and subjective benchmark design.
+- 🏆 **Competition-proven** — National 1st Prize at the Challenge Cup AI track, National 2nd Prize at RAICOM, and two Kaggle bronze medals across model reasoning, low-resource translation, and recommendation.
+- 🌏 **How I work** — Product-minded and documentation-first: I care about the details users actually feel, and I ship across Windows, macOS, and Linux.
 
 ## 💼 Experience / 实习经历
 
@@ -48,11 +48,23 @@
       <strong>Beijing Academy of Artificial Intelligence (BAAI) · Intelligent Evaluation Group</strong> &nbsp;·&nbsp; <code>2024.11 – 2025.03</code><br />
       <sub>北京智源人工智能研究院 · 智能评测组</sub>
       <ul>
-        <li><strong>LLM Safety & Adversarial Research / 大模型安全与对抗研究</strong> — Worked on LLM safety evaluation, adversarial attack research, and systematic benchmark construction.</li>
-        <li><strong>Annotation Quality Assessment / 标注质量建模</strong> — Designed user annotation quality scoring methods for anonymous LLM evaluation competitions, improving the reliability of human preference data.</li>
-        <li><strong>Subjective Benchmark Design / 主观评测基准</strong> — Contributed to methodology discussions and evaluation criteria for subjective LLM benchmarks.</li>
+        <li>
+          <strong>LLM Safety & Adversarial Research / 大模型安全与对抗研究：</strong>
+          Conducted safety evaluations of large language models and researched adversarial attack strategies to probe model vulnerabilities and robustness boundaries; contributed to building systematic safety and robustness benchmarks.<br />
+          <sub>开展大语言模型安全评测与对抗攻击研究，系统探测模型的安全漏洞与鲁棒性边界，参与构建体系化的安全性与鲁棒性评测基准。</sub>
+        </li>
+        <li>
+          <strong>Annotation Quality Modeling / 匿名评测标注质量建模：</strong>
+          Co-designed the user annotation quality scoring method for anonymous, arena-style LLM evaluation competitions — helping identify low-quality annotations and strengthen the reliability of the human preference data behind model rankings.<br />
+          <sub>参与设计大模型匿名评测竞赛的用户标注质量计算方法，用于识别低质量标注、提升人类偏好数据的可信度，为模型排名的公正性提供支撑。</sub>
+        </li>
+        <li>
+          <strong>Subjective Benchmark Design / 主观评测基准研讨：</strong>
+          Participated in methodology discussions for subjective LLM benchmarks, contributing ideas on evaluation dimensions, scoring criteria, and protocol design.<br />
+          <sub>参与大模型主观评测基准的方案研讨，围绕评测维度、评分标准与评测流程设计提出建议。</sub>
+        </li>
       </ul>
-      <sub><strong>Focus:</strong> <code>LLM Safety Evaluation</code> · <code>Adversarial Attack &amp; Red Teaming</code> · <code>Arena Annotation Quality</code> · <code>Subjective Benchmarks</code></sub>
+      <sub><strong>Focus / 核心领域：</strong> <code>LLM Safety Evaluation</code> · <code>Adversarial Attack &amp; Red Teaming</code> · <code>Arena Annotation Quality</code> · <code>Subjective Benchmarks</code></sub>
     </td>
   </tr>
 </table>
@@ -74,7 +86,7 @@
 </a>
 
 <p>
-  A pixel desktop companion that reacts to <strong>Claude Code, Codex, Cursor, Copilot, Gemini</strong>, and other AI coding agents in real time.
+  A pixel desktop companion that reacts to <strong>Claude Code, Codex, Cursor, Copilot, Gemini</strong>, and 20+ other AI coding agents in real time.
 </p>
 
 <p>
@@ -86,22 +98,13 @@
 
 </div>
 
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>#3</strong><br /><sub>Contributor<br />贡献者排名</sub></td>
-    <td align="center" width="25%"><strong>66</strong><br /><sub>Merged PRs<br />合并 PR</sub></td>
-    <td align="center" width="25%"><strong>140+</strong><br /><sub>Commits<br />提交</sub></td>
-    <td align="center" width="25%"><strong>+34k / −6k</strong><br /><sub>Lines changed<br />代码增删</sub></td>
-  </tr>
-</table>
+**What I own as a maintainer / 我负责的方向**
 
-**My contributions / 我的贡献** <sub>· Maintainer since 2026.04</sub>
-
-- 🎛️ **Settings UX system / 设置系统** — Unified tabs, switches, form fields, action buttons, language picker, and disclosure animations into a consistent component system; added quota display modes and replaced native dialogs with in-app confirmation modals.
-- 🔌 **Agent integrations / Agent 接入** — Completed the Gemini hook-only integration and its settings controls, made Claude hook management asynchronous, enabled opening Codex Desktop sessions from the Dashboard, and standardized agent icon assets.
-- 🪟 **Windows reliability / Windows 稳定性** — Fixed taskbar icons, open-at-login, low-power eye tracking after resume, and settings slider preview issues.
-- 🔔 **Update experience / 更新体验** — Replaced blocking update dialogs with theme-aware, pet-following update bubbles.
-- 🤝 **Community / 社区** — Added bilingual issue and PR templates and kept Chinese and localized setup docs in sync.
+- 🎛️ **Settings UX architecture / 设置系统架构** — Rebuilt the Settings UI into a consistent component system — tabs, switches, form fields, action buttons, language picker, and disclosure animations — and replaced native OS dialogs with in-app confirmation flows.<br /><sub>将设置页重构为统一的组件体系，并用应用内确认流程替代系统原生对话框，显著提升一致性与交互质感。</sub>
+- 🔌 **Multi-agent integrations / 多 Agent 接入** — Completed the Gemini hook-only integration, moved Claude hook management off the main thread, enabled one-click jumps into Codex Desktop sessions from the Dashboard, and standardized agent icon assets.<br /><sub>完成 Gemini 接入、Claude hooks 异步化管理、Dashboard 一键跳转 Codex Desktop 会话，并统一 Agent 图标资产。</sub>
+- 🪟 **Windows platform quality / Windows 平台质量** — Resolved taskbar icon, open-at-login, post-resume eye tracking, and slider preview issues across Windows environments.<br /><sub>系统性修复 Windows 下任务栏图标、开机自启、休眠恢复后眼球追踪等平台问题。</sub>
+- 🔔 **Update experience / 更新体验** — Replaced blocking update dialogs with theme-aware update bubbles that follow the pet on screen.<br /><sub>以跟随桌宠、适配主题的更新气泡取代阻塞式更新弹窗。</sub>
+- 🤝 **Community & docs / 社区与文档** — Introduced bilingual issue and PR templates and kept Chinese and localized setup guides in sync with the product.<br /><sub>引入中英双语 Issue / PR 模板，持续同步中文及多语言文档。</sub>
 
 <p align="center">
   <a href="https://github.com/rullerzhou-afk/clawd-on-desk/pulls?q=is%3Apr+author%3AYOIMIYA66+is%3Amerged"><img src="https://img.shields.io/badge/View%20My%20Merged%20PRs-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="View my merged PRs" /></a>
