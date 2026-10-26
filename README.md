@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/%F0%9F%A6%80%20Clawd%20on%20Desk-Maintainer-1F6FEB?style=flat-square" alt="Clawd on Desk maintainer" />
   <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20BAAI-LLM%20Evaluation-0E7490?style=flat-square" alt="BAAI LLM evaluation" />
   <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Challenge%20Cup-National%201st%20Prize-B7791F?style=flat-square" alt="Challenge Cup national first prize" />
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20RAICOM-National%202nd%20Prize-4F46E5?style=flat-square" alt="RAICOM national second prize" />
   <img src="https://img.shields.io/badge/Kaggle-2%C3%97%20Bronze-8B5E3C?style=flat-square&logo=kaggle&logoColor=white" alt="Two Kaggle bronze medals" />
 </p>
 
