@@ -116,38 +116,15 @@
   <a href="https://github.com/xerj-org/xerj/stargazers"><img src="https://img.shields.io/github/stars/xerj-org/xerj?style=flat-square&logo=github&label=Stars&labelColor=11120F&color=7C3AED" alt="XERJ GitHub stars" /></a>
   <a href="https://hub.xerj.org/contributors/YOIMIYA66"><img src="https://hub.xerj.org/contributors/YOIMIYA66/badge.svg" alt="XERJ Corpus Hub contributor" /></a>
   <img src="https://img.shields.io/badge/Selected%20Commit-6%20files%20%C2%B7%20477%20lines-6D28D9?style=flat-square" alt="Selected commit: 6 files, 477 lines" />
-  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 </div>
 
-**[XERJ](https://github.com/xerj-org/xerj)** is a **16.8K★ (Oct 2026), Apache-2.0** project: the local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs and PDFs, and serves BM25, vector and hybrid search behind an Elasticsearch-compatible API, so a coding agent pulls the exact passage it needs with `file:line` citations instead of grepping whole files into its context. Its **Corpus Hub** goes one step further: it pins real repositories at a commit, pre-indexes and signs them, and publishes them as reference memory — a shared library of real source that agents can search before they write code.<br />
-*[XERJ](https://github.com/xerj-org/xerj) 是 GitHub ★1.68 万（2026 年 10 月）、Apache-2.0 协议的开源项目：面向 AI 智能体的本地优先搜索引擎与 MCP 服务器。单个 Rust 二进制即可索引代码、文档、日志与 PDF，通过 Elasticsearch 兼容 API 提供 BM25、向量与混合检索，让智能体按 `file:line` 引用精确片段，而不必把整个文件塞进上下文。其 **Corpus Hub** 更进一步：把真实仓库固定到具体提交，预先索引并签名后发布为参考记忆——一座供智能体在写代码前检索真实源码的共享库。*
+**[XERJ](https://github.com/xerj-org/xerj)** is a **16.8K★ (Oct 2026), Apache-2.0** project: the local-first search engine and MCP server for AI agents. Its **Corpus Hub** pins real repositories at a commit and serves them as reference memory that AI coding agents search before they write code.<br />
+*[XERJ](https://github.com/xerj-org/xerj) 是 GitHub ★1.68 万（2026 年 10 月）、Apache-2.0 协议的开源项目：面向 AI 智能体的本地优先搜索引擎与 MCP 服务器。其 **Corpus Hub** 把真实仓库固定到具体提交，作为 AI 编程智能体写代码前检索的参考记忆。*
 
-**What the Hub selected / 收录了什么**
-
-On **2026-10-25**, the Hub selected one of my commits in [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) as the pinned commit of its `clawd-on-desk` reference corpus — the whole repository at that commit, pre-indexed so an agent reads the surrounding code, not just a diff:
-
-> [`a86f96e`](https://github.com/rullerzhou-afk/clawd-on-desk/commit/a86f96e6f4c44beb3c47b219aaee1c1b2ac6cd0c) · `fix(settings): stabilize subpage switching and recap interaction`<br />
-> <sub>selected commit: 6 files · 477 lines · JavaScript · `src` + `test`</sub>
-
-The selected change is unglamorous, stateful UI work — exactly the kind that agents tend to get subtly wrong, which is what makes it worth keeping as a worked example:
-
-- 🧱 **One subpage primitive** — Introduced `helpers.createSubpageHost({ disposeBody })`, so a Settings subpage swap replaces *only* the active body, disposes the outgoing controls, restores lost keyed focus and preserves scroll position instead of rebuilding the page.<br />*抽象出统一的子页面宿主 `createSubpageHost`：切换设置子页时仅替换当前面板、回收旧控件、恢复丢失的焦点并保持滚动位置，而非整页重建。*
-- ⚡ **Race-safe Recap analytics** — Period switches capture the requested period and fence stale responses, keep the previous chart mounted as *inert / busy* until new data lands, show the loading badge only after 150 ms, and scope failures to a retryable data body.<br />*为 Recap 数据分析实现竞态安全：切换周期时捕获目标周期并拦截过期响应，旧图表以 inert / busy 状态保持原布局等待新数据，加载提示延迟 150 ms 出现，异常仅替换数据区并提供重试。*
-- ⌨️ **Keyboard-first, proven in a real browser** — Grid focus starts at today's cell (falling back to recent activity), the focus ring appears only for `:focus-visible`, one popover serves both pointer and keyboard, and competing native tooltips are gone. Electron and browser-environment tests cover pending geometry, rapid-switch races and scroll clamping.<br />*键盘优先并通过真实浏览器验证：网格焦点从当天单元格开始（无活动时回退至最近活跃），仅 `:focus-visible` 时显示焦点环，指针与键盘共用同一浮层并移除冲突的原生 tooltip；Electron 与浏览器环境测试覆盖等待期间的布局保持、快速切换竞态与滚动钳制。*
-
-**Why it matters / 意义**
-
-A star count says a project got attention. A Corpus Hub selection says someone judged one specific implementation good enough to be the **worked example** — the answer an agent gets back, credited to its author and cited by file and line, when it meets the same problem. That is the engineering I care about most: the invisible state management that makes a desktop app feel solid.<br />
-*Star 数说明项目被关注；而 Corpus Hub 的收录，意味着这段具体实现被判定为足以成为**范例**——当其他智能体遇到同类问题时，它会被连同作者与文件行号一起检索到并作为答案引用。这正是我最在意的工程：那些让桌面应用“手感扎实”的、看不见的状态管理。*
-
-<p align="center"><sub>
-🛰️ Corpus status: <code>selected · in licence review</code> — it becomes installable from the Hub registry once the Hub's licence review passes; the AGPL-3.0 source is used for its approach only.<br />
-Star counts and corpus metrics as of 2026-10-27 &nbsp;·&nbsp;
-<a href="https://hub.xerj.org/contributors/YOIMIYA66">Contributor page</a> &nbsp;·&nbsp;
-<a href="https://hub.xerj.org/corpus/rullerzhou-afk--clawd-on-desk">Corpus page</a>
-</sub></p>
+On **2026-10-25** the Hub selected my commit in [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) as the pinned commit of its `clawd-on-desk` corpus: [`a86f96e`](https://github.com/rullerzhou-afk/clawd-on-desk/commit/a86f96e6f4c44beb3c47b219aaee1c1b2ac6cd0c) · `fix(settings): stabilize subpage switching and recap interaction` — 6 files · 477 lines of JavaScript across `src` and `test`, covering the kind of stateful UI work agents usually get subtly wrong: subpage isolation (`createSubpageHost`), focus and scroll restoration, stale-response fencing, and keyboard-first Recap analytics.<br />
+*2026-10-25，我在 [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) 的提交被收录为该语料的固定提交：`a86f96e` · `fix(settings): stabilize subpage switching and recap interaction` —— 6 个文件、477 行 JavaScript（`src` 与 `test`），正是智能体最容易做错的细节：子页面隔离（`createSubpageHost`）、焦点与滚动恢复、过期响应拦截，以及键盘优先的 Recap 交互。*
 
 ## 🏆 Honors & Awards / 荣誉与奖项
 
