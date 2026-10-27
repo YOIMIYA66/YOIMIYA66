@@ -24,7 +24,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%A6%80%20Clawd%20on%20Desk-Maintainer-1F6FEB?style=flat-square" alt="Clawd on Desk maintainer" />
+  <a href="https://hub.xerj.org/contributors/YOIMIYA66"><img src="https://hub.xerj.org/contributors/YOIMIYA66/badge.svg" alt="XERJ Corpus Hub contributor" /></a>
   <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20BAAI-LLM%20Evaluation-0E7490?style=flat-square" alt="BAAI LLM evaluation" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Challenge%20Cup-National%201st%20Prize-B7791F?style=flat-square" alt="Challenge Cup national first prize" />
   <img src="https://img.shields.io/badge/Kaggle-2%C3%97%20Bronze-8B5E3C?style=flat-square&logo=kaggle&logoColor=white" alt="Two Kaggle bronze medals" />
 </p>
@@ -33,6 +37,7 @@
 
 ## 👋 About Me / 关于我
 
+- 🛰️ **Selected for the XERJ Corpus Hub** — One of my commits in [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) was selected as the **pinned commit of a reference corpus** by the Corpus Hub of [XERJ](https://github.com/xerj-org/xerj) (★16.8K, Oct 2026), the local-first search engine for AI agents: a worked example AI coding agents can cite instead of re-deriving it. See the [Corpus Hub entry](https://hub.xerj.org/contributors/YOIMIYA66) below.
 - 🧩 **Open-source maintainer** — Maintainer of [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk), a cross-platform Electron app with **6k+ GitHub stars**; I own the Settings experience, multi-agent integrations, and Windows platform quality, with **66 merged PRs** since April 2026.
 - 🛡️ **LLM evaluation & safety** — Former intern at the **Beijing Academy of Artificial Intelligence (BAAI)**, working on safety evaluation, adversarial attacks, human-preference data quality, and subjective benchmark design.
 - 🏆 **Competition-proven** — National 1st Prize at the Challenge Cup AI track, National 2nd Prize at RAICOM, and two Kaggle bronze medals across model reasoning, low-resource translation, and recommendation.
@@ -92,6 +97,57 @@
 - 🔌 **Agent Runtime & Ecosystem Integrations / 多 Agent 运行时与生态集成** — Driving multi-agent hook architecture, background session handling, and deep ecosystem integrations across 20+ AI coding agents.<br />*负责多 Agent Hook 架构、后台会话与生态接入，推进 Gemini 等 agent 深度集成与异步调度，保障数十款 Agent 的稳定联动。*
 - 🪟 **Desktop Reliability & Native Platform Quality / 桌面端质量与平台适配** — Hardening Electron lifecycle stability, window management, and native system integration across Windows, macOS, and Linux.<br />*负责 Electron 桌面端核心生命周期、系统托盘、后台唤醒与原生系统集成，系统性优化 Windows 平台稳定性与多端体验。*
 - 🔔 **Interactive Features & Release Engineering / 特性体验与工程发版** — Shipping interactive features like pet-following notification bubbles, maintaining CI/CD releases, and curating bilingual developer docs.<br />*打造跟随桌宠的状态气泡等交互特性，协同发版工程与 CI 流程，持续维护中英双语架构文档与社区贡献生态。*
+
+## 🛰️ XERJ Corpus Hub · Selected Reference Corpus / 被收录为参考语料
+
+<div align="center">
+
+<a href="https://hub.xerj.org/contributors/YOIMIYA66">
+  <picture>
+    <source media="(max-width: 480px) and (prefers-color-scheme: dark)" srcset="./assets/xerj_corpus_mobile_dark.svg">
+    <source media="(max-width: 480px)" srcset="./assets/xerj_corpus_mobile_light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/xerj_corpus_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/xerj_corpus_light.svg">
+    <img src="./assets/xerj_corpus_light.svg" alt="XERJ Corpus Hub — selected reference corpus card" width="100%" />
+  </picture>
+</a>
+
+<p>
+  <a href="https://github.com/xerj-org/xerj/stargazers"><img src="https://img.shields.io/github/stars/xerj-org/xerj?style=flat-square&logo=github&label=Stars&labelColor=11120F&color=7C3AED" alt="XERJ GitHub stars" /></a>
+  <a href="https://hub.xerj.org/contributors/YOIMIYA66"><img src="https://hub.xerj.org/contributors/YOIMIYA66/badge.svg" alt="XERJ Corpus Hub contributor" /></a>
+  <img src="https://img.shields.io/badge/Selected%20Commit-6%20files%20%C2%B7%20477%20lines-6D28D9?style=flat-square" alt="Selected commit: 6 files, 477 lines" />
+  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+</div>
+
+**[XERJ](https://github.com/xerj-org/xerj)** is a **16.8K★ (Oct 2026), Apache-2.0** project: the local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs and PDFs, and serves BM25, vector and hybrid search behind an Elasticsearch-compatible API, so a coding agent pulls the exact passage it needs with `file:line` citations instead of grepping whole files into its context. Its **Corpus Hub** goes one step further: it pins real repositories at a commit, pre-indexes and signs them, and publishes them as reference memory — a shared library of real source that agents can search before they write code.<br />
+*[XERJ](https://github.com/xerj-org/xerj) 是 GitHub ★1.68 万（2026 年 10 月）、Apache-2.0 协议的开源项目：面向 AI 智能体的本地优先搜索引擎与 MCP 服务器。单个 Rust 二进制即可索引代码、文档、日志与 PDF，通过 Elasticsearch 兼容 API 提供 BM25、向量与混合检索，让智能体按 `file:line` 引用精确片段，而不必把整个文件塞进上下文。其 **Corpus Hub** 更进一步：把真实仓库固定到具体提交，预先索引并签名后发布为参考记忆——一座供智能体在写代码前检索真实源码的共享库。*
+
+**What the Hub selected / 收录了什么**
+
+On **2026-10-25**, the Hub selected one of my commits in [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) as the pinned commit of its `clawd-on-desk` reference corpus — the whole repository at that commit, pre-indexed so an agent reads the surrounding code, not just a diff:
+
+> [`a86f96e`](https://github.com/rullerzhou-afk/clawd-on-desk/commit/a86f96e6f4c44beb3c47b219aaee1c1b2ac6cd0c) · `fix(settings): stabilize subpage switching and recap interaction`<br />
+> <sub>selected commit: 6 files · 477 lines · JavaScript · `src` + `test`</sub>
+
+The selected change is unglamorous, stateful UI work — exactly the kind that agents tend to get subtly wrong, which is what makes it worth keeping as a worked example:
+
+- 🧱 **One subpage primitive** — Introduced `helpers.createSubpageHost({ disposeBody })`, so a Settings subpage swap replaces *only* the active body, disposes the outgoing controls, restores lost keyed focus and preserves scroll position instead of rebuilding the page.<br />*抽象出统一的子页面宿主 `createSubpageHost`：切换设置子页时仅替换当前面板、回收旧控件、恢复丢失的焦点并保持滚动位置，而非整页重建。*
+- ⚡ **Race-safe Recap analytics** — Period switches capture the requested period and fence stale responses, keep the previous chart mounted as *inert / busy* until new data lands, show the loading badge only after 150 ms, and scope failures to a retryable data body.<br />*为 Recap 数据分析实现竞态安全：切换周期时捕获目标周期并拦截过期响应，旧图表以 inert / busy 状态保持原布局等待新数据，加载提示延迟 150 ms 出现，异常仅替换数据区并提供重试。*
+- ⌨️ **Keyboard-first, proven in a real browser** — Grid focus starts at today's cell (falling back to recent activity), the focus ring appears only for `:focus-visible`, one popover serves both pointer and keyboard, and competing native tooltips are gone. Electron and browser-environment tests cover pending geometry, rapid-switch races and scroll clamping.<br />*键盘优先并通过真实浏览器验证：网格焦点从当天单元格开始（无活动时回退至最近活跃），仅 `:focus-visible` 时显示焦点环，指针与键盘共用同一浮层并移除冲突的原生 tooltip；Electron 与浏览器环境测试覆盖等待期间的布局保持、快速切换竞态与滚动钳制。*
+
+**Why it matters / 意义**
+
+A star count says a project got attention. A Corpus Hub selection says someone judged one specific implementation good enough to be the **worked example** — the answer an agent gets back, credited to its author and cited by file and line, when it meets the same problem. That is the engineering I care about most: the invisible state management that makes a desktop app feel solid.<br />
+*Star 数说明项目被关注；而 Corpus Hub 的收录，意味着这段具体实现被判定为足以成为**范例**——当其他智能体遇到同类问题时，它会被连同作者与文件行号一起检索到并作为答案引用。这正是我最在意的工程：那些让桌面应用“手感扎实”的、看不见的状态管理。*
+
+<p align="center"><sub>
+🛰️ Corpus status: <code>selected · in licence review</code> — it becomes installable from the Hub registry once the Hub's licence review passes; the AGPL-3.0 source is used for its approach only.<br />
+Star counts and corpus metrics as of 2026-10-27 &nbsp;·&nbsp;
+<a href="https://hub.xerj.org/contributors/YOIMIYA66">Contributor page</a> &nbsp;·&nbsp;
+<a href="https://hub.xerj.org/corpus/rullerzhou-afk--clawd-on-desk">Corpus page</a>
+</sub></p>
 
 ## 🏆 Honors & Awards / 荣誉与奖项
 
