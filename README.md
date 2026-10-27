@@ -11,11 +11,12 @@
 </picture>
 
 <p>
-  Software Engineering undergraduate at <strong>North University of China</strong>, working where <strong>LLM evaluation</strong> and <strong>AI engineering</strong> meet.<br />
+  Software Engineering graduate from <strong>North University of China</strong>, working where <strong>LLM evaluation</strong> and <strong>AI engineering</strong> meet.<br />
   I build AI systems that are measurable, reliable, and genuinely useful — and ship them to real users.
 </p>
 
 <p>
+  <a href="https://yoimiya66.github.io"><img src="https://img.shields.io/badge/Portfolio-yoimiya66.github.io-0E7490?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:lyubingrong@foxmail.com"><img src="https://img.shields.io/badge/Email-lyubingrong%40foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/%E7%82%B3%E8%8D%A3-%E5%90%95-3a13ab3a2/"><img src="https://img.shields.io/badge/LinkedIn-Lyu%20Bingrong-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.kaggle.com/lvbingrong"><img src="https://img.shields.io/badge/Kaggle-lvbingrong-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
