@@ -24,6 +24,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%A6%80%20Clawd%20on%20Desk-Maintainer-1F6FEB?style=flat-square" alt="Clawd on Desk maintainer" />
+  <a href="https://github.com/liuyunlin/cli-trainer"><img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20Studio%20Skill-Contributor-2932E1?style=flat-square&logo=baidu&logoColor=white" alt="PaddlePaddle AI Studio Skill Contributor" /></a>
   <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20BAAI-LLM%20Evaluation-0E7490?style=flat-square" alt="BAAI LLM evaluation" />
   <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Challenge%20Cup-National%201st%20Prize-B7791F?style=flat-square" alt="Challenge Cup national first prize" />
   <img src="https://img.shields.io/badge/Kaggle-2%C3%97%20Bronze-8B5E3C?style=flat-square&logo=kaggle&logoColor=white" alt="Two Kaggle bronze medals" />
@@ -33,7 +34,7 @@
 
 ## 👋 About Me / 关于我
 
-- 🧩 **Open-source maintainer** — Maintainer of [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) (**6k+ ★**, 66 merged PRs); my core commit was selected as the reference worked-example corpus by [XERJ](https://github.com/xerj-org/xerj) (**★16.8K**).
+- 🧩 **Open-source maintainer & contributor** — Maintainer of [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) (**6k+ ★**, 66 merged PRs; core commit selected by [XERJ](https://github.com/xerj-org/xerj) **★16.8K**); Core contributor to [cli-trainer](https://github.com/liuyunlin/cli-trainer) (13 commits), the official Baidu PaddlePaddle AI Studio no-code LLM fine-tuning Skill for Cursor & Claude Code.
 - 🛡️ **LLM evaluation & safety** — Former intern at the **Beijing Academy of Artificial Intelligence (BAAI)**, focusing on safety evaluation, adversarial attack research, and human preference data quality modeling.
 - 🏆 **Competition-proven** — National 1st Prize at the Challenge Cup AI track, National 2nd Prize at RAICOM, and two Kaggle bronze medals across model reasoning, translation, and recommendation.
 - 🌏 **How I work** — Product-minded, documentation-first, and comfortable delivering resilient software across Windows, macOS, and Linux.
@@ -56,6 +57,19 @@
   *参与大模型主观评测基准的方法论研讨与方案制定，深度参与多维度打分标准、评测流程与测试规范的设计。*
 
 > 📌 **Focus / 核心领域：** `LLM Safety Evaluation` · `Adversarial Attack & Red Teaming` · `Arena Annotation Quality` · `Subjective Benchmarks`
+
+### 🚀 Baidu PaddlePaddle Pilot Group · 中北大学百度飞桨领航团
+**Campus Leader & Open-Source Contributor · 领航团团长 & 飞桨开发者生态贡献者** &nbsp;·&nbsp; `2023.09 – Present`
+
+- **Official AI Studio Skill Contribution / 飞桨官方微调 Skill 研发共建**  
+  Core contributor (13 commits) to [cli-trainer](https://github.com/liuyunlin/cli-trainer), the official Baidu AI Studio no-code LLM fine-tuning Agent Skill for local AI IDEs (Cursor, Claude Code, Windsurf). Authored training log streaming, data upload validation, and token security guardrails for natural-language-driven cloud SFT.  
+  *作为核心贡献者深度参与百度飞桨 AI Studio 官方无代码微调 Agent Skill [cli-trainer](https://github.com/liuyunlin/cli-trainer) 的开源共建（贡献 13 次核心提交），主导训练任务调度规范、数据校验、日志流式导出与凭据安全脱敏，赋能开发者在本地 AI IDE 中通过自然语言一句话跑通云端微调。*
+
+- **Community Leadership & Tech Evangelism / 开发者社区治理与技术赋能**  
+  Led the campus open-source deep learning community, organized hands-on workshops on computer vision, deep learning, and LLM applications using PaddlePaddle and AI Studio, mentoring hundreds of student developers and driving national competition awards.  
+  *主导高校开源深度学习社群生态，依托百度飞桨框架与 AI Studio 平台开展计算机视觉与前沿大模型技术培训与 Workshop，累计带动数百名开发者，赋能多支团队斩获国家级奖项。*
+
+> 📌 **Focus / 核心领域：** `Agent Skill Development` · `Baidu AI Studio Ecosystem` · `No-Code LLM Fine-Tuning` · `Technical Evangelism`
 
 ## 🚀 Featured Project / 代表项目
 
@@ -97,6 +111,10 @@
 > My architectural commit in Clawd on Desk ([`a86f96e`](https://github.com/rullerzhou-afk/clawd-on-desk/commit/a86f96e6f4c44beb3c47b219aaee1c1b2ac6cd0c) · 477 lines across 6 files) was selected by the XERJ Corpus Hub as the official pinned worked-example corpus for AI coding agents to search and cite.  
 > <sub>*该提交被拥有 1.68 万星的 AI 本地优先搜索引擎 XERJ 选为官方固定参考语料，作为智能体编写高质量复杂 UI 状态逻辑的标杆示例。* &nbsp;·&nbsp; <a href="https://hub.xerj.org/contributors/YOIMIYA66">View Hub Entry →</a></sub>
 
+> 🤖 **Official Baidu AI Studio Agent Skill: [cli-trainer](https://github.com/liuyunlin/cli-trainer)**  
+> Core contributor (13 commits) to the official Baidu PaddlePaddle AI Studio no-code LLM fine-tuning Skill. Enables natural-language SFT workflows across ERNIE, Qwen, and LLaMA directly inside local AI IDEs (Cursor, Claude Code, Windsurf) with cloud compute dispatch.  
+> <sub>*百度飞桨官方 AI Studio 无代码大模型微调 Skill 核心贡献者（13 次核心提交），支持在 Cursor / Claude Code 等本地 AI IDE 中通过对话一键调度星河社区云端算力完成 ERNIE / Qwen / LLaMA 全流程微调。* &nbsp;·&nbsp; <a href="https://github.com/liuyunlin/cli-trainer">View Repository →</a></sub>
+
 ## 🏆 Honors & Awards / 荣誉与奖项
 
 <p align="center"><sub>Selected results in AI, data science, and innovation competitions / 人工智能、数据科学与创新创业赛事代表成绩</sub></p>
@@ -126,6 +144,7 @@
 
 <p>
   <strong>AI, ML & Data / 人工智能与数据</strong><br />
+  <img src="https://img.shields.io/badge/PaddlePaddle-2932E1?style=flat-square&logo=baidu&logoColor=white" alt="PaddlePaddle" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
@@ -147,6 +166,7 @@
 
 <p>
   <strong>LLM & Agent Ecosystem / 大模型与智能体生态</strong><br />
+  <a href="https://github.com/liuyunlin/cli-trainer"><img src="https://img.shields.io/badge/AI%20Studio%20Skills-2932E1?style=flat-square&logo=baidu&logoColor=white" alt="AI Studio Skills" /></a>
   <img src="https://img.shields.io/badge/ChatGPT%20%2F%20Codex-10A37F?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BT3BlbkFJPC90aXRsZT48cGF0aCBkPSJNMjIuMjgxOSA5LjgyMTFhNS45ODQ3IDUuOTg0NyAwIDAgMC0uNTE1Ny00LjkxMDggNi4wNDYyIDYuMDQ2MiAwIDAgMC02LjUwOTgtMi45QTYuMDY1MSA2LjA2NTEgMCAwIDAgNC45ODA3IDQuMTgxOGE1Ljk4NDcgNS45ODQ3IDAgMCAwLTMuOTk3NyAyLjkgNi4wNDYyIDYuMDQ2MiAwIDAgMCAuNzQyNyA3LjA5NjYgNS45OCA1Ljk4IDAgMCAwIC41MTEgNC45MTA3IDYuMDUxIDYuMDUxIDAgMCAwIDYuNTE0NiAyLjkwMDFBNS45ODQ3IDUuOTg0NyAwIDAgMCAxMy4yNTk5IDI0YTYuMDU1NyA2LjA1NTcgMCAwIDAgNS43NzE4LTQuMjA1OCA1Ljk4OTQgNS45ODk0IDAgMCAwIDMuOTk3Ny0yLjkwMDEgNi4wNTU3IDYuMDU1NyAwIDAgMC0uNzQ3NS03LjA3Mjl6bS05LjAyMiAxMi42MDgxYTQuNDc1NSA0LjQ3NTUgMCAwIDEtMi44NzY0LTEuMDQwOGwuMTQxOS0uMDgwNCA0Ljc3ODMtMi43NTgyYS43OTQ4Ljc5NDggMCAwIDAgLjM5MjctLjY4MTN2LTYuNzM2OWwyLjAyIDEuMTY4NmEuMDcxLjA3MSAwIDAgMSAuMDM4LjA1MnY1LjU4MjZhNC41MDQgNC41MDQgMCAwIDEtNC40OTQ1IDQuNDk0NHptLTkuNjYwNy00LjEyNTRhNC40NzA4IDQuNDcwOCAwIDAgMS0uNTM0Ni0zLjAxMzdsLjE0Mi4wODUyIDQuNzgzIDIuNzU4MmEuNzcxMi43NzEyIDAgMCAwIC43ODA2IDBsNS44NDI4LTMuMzY4NXYyLjMzMjRhLjA4MDQuMDgwNCAwIDAgMS0uMDMzMi4wNjE1TDkuNzQgMTkuOTUwMmE0LjQ5OTIgNC40OTkyIDAgMCAxLTYuMTQwOC0xLjY0NjR6TTIuMzQwOCA3Ljg5NTZhNC40ODUgNC40ODUgMCAwIDEgMi4zNjU1LTEuOTcyOFYxMS42YS43NjY0Ljc2NjQgMCAwIDAgLjM4NzkuNjc2NWw1LjgxNDQgMy4zNTQzLTIuMDIwMSAxLjE2ODVhLjA3NTcuMDc1NyAwIDAgMS0uMDcxIDBsLTQuODMwMy0yLjc4NjVBNC41MDQgNC41MDQgMCAwIDEgMi4zNDA4IDcuODcyem0xNi41OTYzIDMuODU1OEwxMy4xMDM4IDguMzY0IDE1LjExOTIgNy4yYS4wNzU3LjA3NTcgMCAwIDEgLjA3MSAwbDQuODMwMyAyLjc5MTNhNC40OTQ0IDQuNDk0NCAwIDAgMS0uNjc2NSA4LjEwNDJ2LTUuNjc3MmEuNzkuNzkgMCAwIDAtLjQwNy0uNjY3em0yLjAxMDctMy4wMjMxbC0uMTQyLS4wODUyLTQuNzczNS0yLjc4MThhLjc3NTkuNzc1OSAwIDAgMC0uNzg1NCAwTDkuNDA5IDkuMjI5N1Y2Ljg5NzRhLjA2NjIuMDY2MiAwIDAgMSAuMDI4NC0uMDYxNWw0LjgzMDMtMi43ODY2YTQuNDk5MiA0LjQ5OTIgMCAwIDEgNi42ODAyIDQuNjZ6TTguMzA2NSAxMi44NjNsLTIuMDItMS4xNjM4YS4wODA0LjA4MDQgMCAwIDEtLjAzOC0uMDU2N1Y2LjA3NDJhNC40OTkyIDQuNDk5MiAwIDAgMSA3LjM3NTctMy40NTM3bC0uMTQyLjA4MDVMOC43MDQgNS40NTlhLjc5NDguNzk0OCAwIDAgMC0uMzkyNy42ODEzem0xLjA5NzYtMi4zNjU0bDIuNjAyLTEuNDk5OCAyLjYwNjkgMS40OTk4djIuOTk5NGwtMi41OTc0IDEuNDk5Ny0yLjYwNjctMS40OTk3WiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="ChatGPT and Codex" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
