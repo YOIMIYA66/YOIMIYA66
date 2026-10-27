@@ -24,11 +24,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%A6%80%20Clawd%20on%20Desk-Maintainer-1F6FEB?style=flat-square" alt="Clawd on Desk maintainer" />
-  <a href="https://hub.xerj.org/contributors/YOIMIYA66"><img src="https://hub.xerj.org/contributors/YOIMIYA66/badge.svg" alt="XERJ Corpus Hub contributor" /></a>
   <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20BAAI-LLM%20Evaluation-0E7490?style=flat-square" alt="BAAI LLM evaluation" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Challenge%20Cup-National%201st%20Prize-B7791F?style=flat-square" alt="Challenge Cup national first prize" />
   <img src="https://img.shields.io/badge/Kaggle-2%C3%97%20Bronze-8B5E3C?style=flat-square&logo=kaggle&logoColor=white" alt="Two Kaggle bronze medals" />
 </p>
@@ -37,11 +33,10 @@
 
 ## 👋 About Me / 关于我
 
-- 🛰️ **Selected for the XERJ Corpus Hub** — One of my commits in [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) was selected as the **pinned commit of a reference corpus** by the Corpus Hub of [XERJ](https://github.com/xerj-org/xerj) (★16.8K, Oct 2026), the local-first search engine for AI agents: a worked example AI coding agents can cite instead of re-deriving it. See the [Corpus Hub entry](https://hub.xerj.org/contributors/YOIMIYA66) below.
-- 🧩 **Open-source maintainer** — Maintainer of [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk), a cross-platform Electron app with **6k+ GitHub stars**; I own the Settings experience, multi-agent integrations, and Windows platform quality, with **66 merged PRs** since April 2026.
-- 🛡️ **LLM evaluation & safety** — Former intern at the **Beijing Academy of Artificial Intelligence (BAAI)**, working on safety evaluation, adversarial attacks, human-preference data quality, and subjective benchmark design.
-- 🏆 **Competition-proven** — National 1st Prize at the Challenge Cup AI track, National 2nd Prize at RAICOM, and two Kaggle bronze medals across model reasoning, low-resource translation, and recommendation.
-- 🌏 **How I work** — Product-minded and documentation-first: I care about the details users actually feel, and I ship across Windows, macOS, and Linux.
+- 🧩 **Open-source maintainer** — Maintainer of [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) (**6k+ ★**, 66 merged PRs); my core commit was selected as the reference worked-example corpus by [XERJ](https://github.com/xerj-org/xerj) (**★16.8K**).
+- 🛡️ **LLM evaluation & safety** — Former intern at the **Beijing Academy of Artificial Intelligence (BAAI)**, focusing on safety evaluation, adversarial attack research, and human preference data quality modeling.
+- 🏆 **Competition-proven** — National 1st Prize at the Challenge Cup AI track, National 2nd Prize at RAICOM, and two Kaggle bronze medals across model reasoning, translation, and recommendation.
+- 🌏 **How I work** — Product-minded, documentation-first, and comfortable delivering resilient software across Windows, macOS, and Linux.
 
 ## 💼 Experience / 实习经历
 
@@ -98,33 +93,9 @@
 - 🪟 **Desktop Reliability & Native Platform Quality / 桌面端质量与平台适配** — Hardening Electron lifecycle stability, window management, and native system integration across Windows, macOS, and Linux.<br />*负责 Electron 桌面端核心生命周期、系统托盘、后台唤醒与原生系统集成，系统性优化 Windows 平台稳定性与多端体验。*
 - 🔔 **Interactive Features & Release Engineering / 特性体验与工程发版** — Shipping interactive features like pet-following notification bubbles, maintaining CI/CD releases, and curating bilingual developer docs.<br />*打造跟随桌宠的状态气泡等交互特性，协同发版工程与 CI 流程，持续维护中英双语架构文档与社区贡献生态。*
 
-## 🛰️ XERJ Corpus Hub · Selected Reference Corpus / 被收录为参考语料
-
-<div align="center">
-
-<a href="https://hub.xerj.org/contributors/YOIMIYA66">
-  <picture>
-    <source media="(max-width: 480px) and (prefers-color-scheme: dark)" srcset="./assets/xerj_corpus_mobile_dark.svg">
-    <source media="(max-width: 480px)" srcset="./assets/xerj_corpus_mobile_light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/xerj_corpus_dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/xerj_corpus_light.svg">
-    <img src="./assets/xerj_corpus_light.svg" alt="XERJ Corpus Hub — selected reference corpus card" width="100%" />
-  </picture>
-</a>
-
-<p>
-  <a href="https://github.com/xerj-org/xerj/stargazers"><img src="https://img.shields.io/github/stars/xerj-org/xerj?style=flat-square&logo=github&label=Stars&labelColor=11120F&color=7C3AED" alt="XERJ GitHub stars" /></a>
-  <a href="https://hub.xerj.org/contributors/YOIMIYA66"><img src="https://hub.xerj.org/contributors/YOIMIYA66/badge.svg" alt="XERJ Corpus Hub contributor" /></a>
-  <img src="https://img.shields.io/badge/Selected%20Commit-6%20files%20%C2%B7%20477%20lines-6D28D9?style=flat-square" alt="Selected commit: 6 files, 477 lines" />
-</p>
-
-</div>
-
-**[XERJ](https://github.com/xerj-org/xerj)** is a **16.8K★ (Oct 2026), Apache-2.0** project: the local-first search engine and MCP server for AI agents. Its **Corpus Hub** pins real repositories at a commit and serves them as reference memory that AI coding agents search before they write code.<br />
-*[XERJ](https://github.com/xerj-org/xerj) 是 GitHub ★1.68 万（2026 年 10 月）、Apache-2.0 协议的开源项目：面向 AI 智能体的本地优先搜索引擎与 MCP 服务器。其 **Corpus Hub** 把真实仓库固定到具体提交，作为 AI 编程智能体写代码前检索的参考记忆。*
-
-On **2026-10-25** the Hub selected my commit in [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) as the pinned commit of its `clawd-on-desk` corpus: [`a86f96e`](https://github.com/rullerzhou-afk/clawd-on-desk/commit/a86f96e6f4c44beb3c47b219aaee1c1b2ac6cd0c) · `fix(settings): stabilize subpage switching and recap interaction` — 6 files · 477 lines of JavaScript across `src` and `test`, covering the kind of stateful UI work agents usually get subtly wrong: subpage isolation (`createSubpageHost`), focus and scroll restoration, stale-response fencing, and keyboard-first Recap analytics.<br />
-*2026-10-25，我在 [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) 的提交被收录为该语料的固定提交：`a86f96e` · `fix(settings): stabilize subpage switching and recap interaction` —— 6 个文件、477 行 JavaScript（`src` 与 `test`），正是智能体最容易做错的细节：子页面隔离（`createSubpageHost`）、焦点与滚动恢复、过期响应拦截，以及键盘优先的 Recap 交互。*
+> 🛰️ **Selected Reference Corpus by [XERJ](https://github.com/xerj-org/xerj) (★16.8K)**  
+> My architectural commit in Clawd on Desk ([`a86f96e`](https://github.com/rullerzhou-afk/clawd-on-desk/commit/a86f96e6f4c44beb3c47b219aaee1c1b2ac6cd0c) · 477 lines across 6 files) was selected by the XERJ Corpus Hub as the official pinned worked-example corpus for AI coding agents to search and cite.  
+> <sub>*该提交被拥有 1.68 万星的 AI 本地优先搜索引擎 XERJ 选为官方固定参考语料，作为智能体编写高质量复杂 UI 状态逻辑的标杆示例。* &nbsp;·&nbsp; <a href="https://hub.xerj.org/contributors/YOIMIYA66">View Hub Entry →</a></sub>
 
 ## 🏆 Honors & Awards / 荣誉与奖项
 
