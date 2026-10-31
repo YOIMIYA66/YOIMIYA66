@@ -40,6 +40,13 @@
 - 🏆 **Competition-proven** — National 1st Prize at the Challenge Cup AI track, National 2nd Prize at RAICOM, and two Kaggle bronze medals across model reasoning, translation, and recommendation.
 - 🌏 **How I work** — Product-minded, documentation-first, and comfortable delivering resilient software across Windows, macOS, and Linux.
 
+## 🏛️ GitHub Maintainer Advisory Network / GitHub 维护者顾问网络
+
+<p align="center"><img src="https://img.shields.io/badge/GitHub%20Maintainer%20Advisory%20Network-Member-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Maintainer Advisory Network member" /></p>
+
+Invited member of GitHub's **private, invitation-only** advisory network for open-source maintainers — selected by GitHub's open source team on Clawd on Desk's community activity and impact, as one of its most active maintainers. Members preview upcoming GitHub tooling and give feedback directly to the teams building it, for a one-year term.
+*受邀成为 GitHub 官方**私有、仅限邀请**的开源维护者顾问网络（Maintainer Advisory Network）成员——GitHub 开源团队基于 Clawd on Desk 的社区活跃度与影响力，将我选为其最活跃的维护者之一。任期为一年，可提前体验 GitHub 新工具并直接向开发团队反馈维护者需求。*
+
 ## 💼 Experience / 实习经历
 
 ### 🧠 Beijing Academy of Artificial Intelligence (BAAI) · 北京智源人工智能研究院
